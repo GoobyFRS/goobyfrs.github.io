@@ -1,6 +1,6 @@
 ## About Matt Faulkner
 Hello everyone - I am Matt in-person and [GoobyFRS](https://linktr.ee/goobyfrs) out on the interwebs.  
-I call Colorado home but I am from a rural area in the beautiful state of Tennesse. 
+I call Colorado home but I am from a rural area in the beautiful state of Tennesse. I am a Senior Infrastucture Operations Technician with a focus on Network Engineering at a Fortune 200 company. I have real world experince monitoring and maintaining large MPLS and SDWAN infrastucture as well as VMWare ESXI, vCenter, vSphere exposure. I write python scripts at work for fun. 
 
 ## Homelab Favorites
 - Dual POE+ powered Raspberry Pi 4's running Pi-Hole and Unbound. Blocking ~750,000 domains & providing slightly more secure DNS lookups. 
