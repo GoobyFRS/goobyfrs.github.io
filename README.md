@@ -9,7 +9,7 @@ I call Colorado home but I am from a rural area in the beautiful state of Tennes
 ### Goobs Curated Blacklist
 This is a blacklist for Pi-Hole / AdGuard Home that I actively maintain based on my home adblocking usage. 
 ```
-pihole -b <raw_url_here>
+pihole -b https://raw.githubusercontent.com/GoobyFRS/goobs-blocklist/main/blocklist.txt
 ```
 ### Setup
 Here is a little blurp about my Work-from-Home / Gaming Setup.     
@@ -19,7 +19,7 @@ Here is a little blurp about my Work-from-Home / Gaming Setup.
 - EVGA RTX 3050 8GB
 - 16GB DDR4-2133 MHz
 - [1TB Samsung 970 EVO](https://www.microcenter.com/product/601600/samsung-970-evo-plus-ssd-1tb-m2-nvme-interface-pcie-30-x4-internal-solid-state-drive-with-v-nand-3-bit-mlc-technology-(mz-v7s1t0b-am))
-- 500GB Samsung 860 EVO
+- 500GB Samsung 970 EVO
 - [EVGA SuperNOVA GT 750 Power Supply](https://www.microcenter.com/product/624764/evga-supernova-750-gt-750-watt-80-plus-gold-atx-fully-modular-power-supply)
 
 **Periphreials**
