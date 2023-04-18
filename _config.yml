@@ -1,11 +1,11 @@
 lang: en
-title: Matt's Homelab
-theme: jekyll-theme-minimal
+title: Goobys GitHub
+remote_theme: pages-themes/midnight@v0.2.0
 author: Matt Faulkner
 #baseurl: "https://goobyfrs.github.io"
 url: "https://www.goobyfrs.net"
 permalink: pretty
-
+show_downloads: false
 
 plugins:
   - jekyll-sitemap 

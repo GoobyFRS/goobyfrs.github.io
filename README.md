@@ -1,17 +1,17 @@
 ## About Matt Faulkner
 Hello everyone - I am Matt in-person and [GoobyFRS](https://linktr.ee/goobyfrs) out on the interwebs.  
-I call Colorado home but I am from a rural area in the beautiful state of Tennesse. I am a Senior Infrastucture Operations Technician with a focus on Network Engineering at a Fortune 200 company. I have experince monitoring and maintaining large MPLS and SDWAN infrastucture as well as VMWare ESXI, vCenter, vSphere exposure. I write python scripts at work for fun. 
-
-## Homelab Favorites
-- Dual POE+ powered Raspberry Pi 4's both running Pi-Hole and Unbound. Blocking ~750,000 domains.
-- TrueNAS Core with 8TB with 120GB SSD Cache
 
 ### Goobs Curated Blacklist
 This is a blacklist for Pi-Hole / AdGuard Home that I actively maintain based on my home adblocking usage. 
 ```
 pihole -b https://raw.githubusercontent.com/GoobyFRS/goobs-blocklist/main/blocklist.txt
 ```
-### Setup
+
+## Homelab Favorites
+- Dual POE+ powered Raspberry Pi 4's both running Pi-Hole and Unbound. Blocking ~750,000 domains.
+- TrueNAS Core with 8TB with 120GB SSD Cache
+
+### Gaming Setup
 Here is a little blurp about my Work-from-Home / Gaming Setup.     
 **Desktop**
 - [AMD Ryzen 5 5600](https://www.microcenter.com/product/647886/amd-ryzen-5-5600-vermeer-35ghz-6-core-am4-boxed-processor-wraith-stealth-cooler-included)
