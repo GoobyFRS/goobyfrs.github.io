@@ -24,6 +24,8 @@ pihole -b https://raw.githubusercontent.com/GoobyFRS/goobs-blocklist/main/blockl
 
 #### My Referral Links
 
+I do not typically like Referral links. Atleast, not for individuals such as my self. Often feels more like a MLM scheme than anything. But these two companies below get my money, in real life, every month. I like them. Maybe you will too.
+
 1. [ProtonMail Plus](https://pr.tn/ref/9E1AC5Q1T3Z0)
     > I've been using the ProtonMail Unlimited plan for over a year. This was a major step in my efforts to de-Google-Fi my life and increase my security and privacy. I get decent use out of the entire ecosystem and I strongly encourage everyone who reads this to do their own research and investigate a path to de-Google-fy'ing.
 
