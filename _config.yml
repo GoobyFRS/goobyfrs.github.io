@@ -1,6 +1,6 @@
 lang: en
-title: Goobys Bird House
-desc: a Pages project
+title: Gooby's Git Land
+desc: GitHub Pages Example
 remote_theme: pages-themes/midnight@v0.2.0
 author: Matt Faulkner
 #baseurl: "https://goobyfrs.github.io"
