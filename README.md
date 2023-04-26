@@ -1,13 +1,13 @@
 # About GoobyFRS
 
-Hello everyone - I am [GoobyFRS](https://linktr.ee/goobyfrs) out on the internet and in video games. I mostly play simulator and racing games but I can get into just about anything. This page is more about my 'online' persona and not so much me as a person or business. If you are interested, here are my other links.
+Hello everyone - I am [GoobyFRS](https://linktr.ee/goobyfrs) out on the internet and in video games. I mostly play simulator and racing games but I can get into just about anything. Here are some of my other links.
 
 - [My Personal Website](https://www.mattfaulkner.net/)
 - [My Very Small Web Hosting Business](https://www.grhost.net/)
 
 ## Goobs Curated Blacklist
 
-This is a blacklist for Pi-Hole / AdGuard Home that I actively maintain based on my home adblocking usage.
+This is a blacklist for Pi-Hole / AdGuard Home that I actively maintain based on my home adblocking usage. However it may not be super effective for you. This is only a collection of my other 10 adlists did not catch. Popular adlists by other CONTRIBUTORs can be found at [Firebog](https://firebog.net/)
 
 ```bash
 pihole -b https://raw.githubusercontent.com/GoobyFRS/goobs-blocklist/main/blocklist.txt
@@ -25,8 +25,7 @@ pihole -b https://raw.githubusercontent.com/GoobyFRS/goobs-blocklist/main/blockl
 #### My Referral Links
 
 1. [ProtonMail Plus](https://pr.tn/ref/9E1AC5Q1T3Z0)
-    > I have been a ProtonMail Unlimited subscriber for over a year now.
-2. [No-IP Dynamic DNS](https://www.noip.com/?fpr=p0dcn)
-    - Been using TrustCor SSL certificates through NoIP for 3 years on my home network.
-3. [Linode](https://www.linode.com/lp/refer/?r=d46f7cf236f69208c12b9ebc684046a2f8516247)
-    - Hosts my personal WordPress website. I also use the S3 storage and Self-Service DNS.
+    > I've been using the ProtonMail Unlimited plan for over a year. This was a major step in my efforts to de-Google-Fi my life and increase my security and privacy. I get decent use out of the entire ecosystem and I strongly encourage everyone who reads this to do their own research and investigate a path to de-Google-fy'ing.
+
+2. [Linode](https://www.linode.com/lp/refer/?r=d46f7cf236f69208c12b9ebc684046a2f8516247)
+    > Linode hosts my personal WordPress website. I also use the S3 storage and Self-Service DNS. I've had 4 experiences with their Support Teams and can vouch they are awesome. What got me on to Linode, is that they sponsor my households favorite YouTube channel; [Level1Techs](https://www.youtube.com/c/level1techs)
