@@ -1,7 +1,7 @@
 curl -sL yabs.sh | bash -s -- -r -9 -6 -w $HOSTNAME-yabs.json
 
-My Desktop
 {
+    "refer": "MattDesktop10_WSL",
     "version": "v2023-02-27",
     "time": "20230305-163844",
     "os": {
@@ -111,9 +111,8 @@ My Desktop
         }
     ]
 }
-
-Raspberry Pi 4B
 {
+    "refer": "Raspberry Pi 4B Rev1.4",
     "version": "v2023-02-27",
     "time": "20230305-160404",
     "os": {
@@ -217,9 +216,8 @@ Raspberry Pi 4B
         }
     ]
 }
-
-Oracle Cloud Free Tier E2-1-Micro
 {
+    "refer": "Oracle Cloud Free Tier E2-1-Micro",
     "version": "v2023-02-27",
     "time": "20230305-160318",
     "os": {
@@ -317,9 +315,8 @@ Oracle Cloud Free Tier E2-1-Micro
         }
     ]
 }
-
-GR Host i2Small
 {
+    "refer": "GR Host i2Small",
     "version": "v2023-02-27",
     "time": "20230305-230300",
     "os": {
@@ -429,9 +426,8 @@ GR Host i2Small
         }
     ]
 }
-
-Linode Shared 4GB
 {
+    "refer": "Linode 4GB",
     "version": "v2023-02-27",
     "time": "20230305-233609",
     "os": {
@@ -565,9 +561,8 @@ Linode Shared 4GB
         }
     ]
 }
-
-Linode Dedicated 8GB
 {
+    "refer": "Linode Dedicated 8GB",
     "version": "v2023-04-23",
     "time": "20230511-175220",
     "os": {
