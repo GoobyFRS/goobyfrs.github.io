@@ -17,7 +17,7 @@ sidebar:
     phone: 012 345 6789
     timezone: America/Denver
     #citizenship:
-    #website: www.mattfaulkner.net #do not add http://
+    website: www.mattfaulkner.net #do not add http://
     linkedin: mattfaulknerbbpc
     #xing:
     github: goobyfrs
@@ -51,10 +51,11 @@ sidebar:
 career-profile:
     title: Career Overview
     summary: |
-      Motivated Infrastructure Technician with a demonstarted ability to perform
-      engineering-level troubleshooting in Cisco, Juniper, and Versa Networks enviroments. Experience
-      managing Networking, Compute, Storage, and Cloud Infrastructures. Huge fan of open-source
-      software! 
+      Motivated Infrastructure Technician with a demonstrated ability to perform
+      engineering-level troubleshooting in Cisco, Juniper, and Versa Networks environments. I am experienced
+      in managing networking, compute, storage, and cloud infrastructures and technologies.
+ 
+
 education:
     title: Education
     info:
@@ -62,11 +63,12 @@ education:
         university: Community College of Aurora
         time: 2018 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Understanding how to leverage and implement successful computer information systems
+          in enterprise environments.
+            - Systems Analysis
+            - Project Management
+            - Agile Project Management
+            - Introduction to Python3
 
       - degree: Certified Enterprise PC Support Technician
         university: Pickens Technical College
@@ -86,15 +88,15 @@ experiences:
         time: 2022 - Present
         company: Nordstrom, Denver
         details: |
-          Aide in the creation and implementation of automation tooling plus act as a mentor for Technician 2s. 
+          Experience in the lifecycle management of various python-based automation tools and platforms. 
           Implementing & managing 300+ SDWAN data circuits including 3x Data Center locations. 
-          Using tools such as Using tools such as NewRelic, Versa Networks, Git, Python3, Stackstorm Composer, and Terraform.
+          Using tools such as NewRelic, Versa Networks, Git, Python3, Stackstorm Composer, and Terraform.
 
       - role: Network Technician II
         time: 2020 - 2022
         company: Nordstrom, Denver
         details: | 
-          Manage and maintain 320+ MPLS Data Circuits including 3x Data Center locations. 
+          Manage and maintain 320+ MPLS Data Circuits including 3x Data Center locations.
           Subject Matter Expert in Cisco Networks. Using tools such as SolarWinds, LiveNX, and DataDog.
 
       - role: IT Specialist
@@ -127,8 +129,8 @@ certifications:
         - name: Learn Linux in 5 Days
           start: 2023
           organization: Udemy
-          #credentialid: 111-222
-          credentialurl: https://gooby-s3.us-southeast-1.linodeobjects.com/udemy_learn_linux_in_5_days_and_level_up_your_carerr_jcannon_mattFaulkner_certificate.pdf
+          credentialid: UC-31651e38-c00a-4cde-8645-08ebfa07b97
+          credentialurl: gooby-s3.us-southeast-1.linodeobjects.com/udemy_learn_linux_in_5_days_and_level_up_your_carerr_jcannon_mattFaulkner_certificate.pdf
           credentialname: Learn Linux in 5 Days & Level Up your Career
           details: |
             Use the in-demand Linux skills you learn in this course to get promoted or start a new career as a Linux professional. 
