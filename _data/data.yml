@@ -15,20 +15,20 @@ sidebar:
     # Sidebar links
     email: matt@bluebotpc.com
     phone: 012 345 6789
-    timezone: America/Denver Timezone
-    citizenship:
-    website: www.mattfaulkner.net #do not add http://
+    timezone: America/Denver
+    #citizenship:
+    #website: www.mattfaulkner.net #do not add http://
     linkedin: mattfaulknerbbpc
     #xing:
-    #github:
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    github: goobyfrs
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
     twitter: '@frsgooby'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -39,13 +39,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Automotive
           link:
 
-        - item: Snowboarding
+        - item: Technology
           link:
 
-        - item: Cooking
+        - item: Gaming
           link:
 
 career-profile:
@@ -60,7 +60,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Associates in Appiled Science
+      - degree: Associates - Appiled Science
         university: Community College of Aurora
         time: 2018 - 2023
         details: |
@@ -86,51 +86,39 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Infrastructure Technician
+        time: 2020 - Present
+        company: Nordstrom, Denver
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Aide in the creation and implementation of various automation platforms as well 
+          as mentor up and coming Technician 2s. Using tools such as NewRelic, Versa Networks, 
+          Git, Python3, Stackstorm Composer, and Terraform. 
+          Manage and maintain 320+ MPLS Data Circuits including 3x Data Center locations. 
+          Subject Matter Expert in Cisco Networks. Using tools such as SolarWinds, LiveNX, and DataDog.
+
+      - role: IT Specialist
+        time: 2019 - 2020
+        company: Humanscale, Denver
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Contracted for an Office 365 rollout. Performed administrative duties for 
+          Office 365 and Active Directory including user provisioning, group management, 
+          Group Policy creation, device imaging, deployment, and InTune management. 
+          Network Management using Ubiquiti.
+
+      - role: IT Specialist
+        time: 2017 - 2018
+        company: Raytheon, Aurora
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Contractor for Raytheon Intelligence, and Information Systems business unit. 
+          Providing desk side support for VIP staff; including Windows 10 migration support for all departments.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
+        - name: Akamai Cloud Solutions
+          start: 2023
+          end: 2025
+          organization: Akamai
           credentialid: 111-222
           credentialurl: www.google.com
           credentialname: Google
@@ -176,22 +164,6 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 oss:
     title: OSS Contributions
     intro: >
@@ -203,27 +175,25 @@ oss:
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Networking
+      - name: Cisco Networking
         level: 99%
 
-      - name: Akamai Cloud
+      - name: Juniper Networking
+        level: 95%
+
+      - name: Akamai Cloud Solutions
         level: 90%
 
-      - name: HTML5
+      - name: HTML5 &  CSS3
         level: 80%
 
+      - name: Python3
+        level: 30%
+      
       - name: Python3
         level: 30%
 
