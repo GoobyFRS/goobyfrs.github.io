@@ -49,7 +49,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Career Overview
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -75,13 +75,13 @@ education:
         university: Pickens Technical College
         time: 2016 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Intoduction the industry of servicing, maintaining, 
+          and repairing computers, computer and networking systems.
+
+            - Maintain, repair, and build PCs
+            - Analyze and secure systems, network, and data
+            - Work with Windows, Linux, switches, routers, cabling, network addressing,
+              firewalls, remote access, and virtualization
 
 experiences:
     title: Experiences
@@ -192,10 +192,8 @@ skills:
         level: 80%
 
       - name: Python3
-        level: 30%
-      
-      - name: Python3
-        level: 30%
+        level: 40%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
