@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: matt@bluebotpc.com
-    phone: 012 345 6789
+    #phone: 012 345 6789
     timezone: America/Denver
     #citizenship:
     website: www.mattfaulkner.net #do not add http://
@@ -63,12 +63,12 @@ education:
         university: Community College of Aurora
         time: 2018 - 2023
         details: |
-          Understanding how to leverage and implement successful computer information systems
-          in enterprise environments.
+          Introduction into the analysis, design, implementation, and management of Computer Information Systems (CIS)
+          that aide in business operations and drive efficiency.
             - Systems Analysis
             - Project Management
-            - Agile Project Management
-            - Introduction to Python3
+            - Software Development Lifecycles
+            - Introduction to Python
 
       - degree: Certified Enterprise PC Support Technician
         university: Pickens Technical College
@@ -111,20 +111,20 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Akamai Cloud Partner
+        - name: Cloud Practitioner
           start: 2023
           end: 2025
           organization: Akamai
           #credentialid: 111-222
-          credentialurl: www.linode.com
+          credentialurl: gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png
           credentialname: Cloud Computing Masterclass
           details: |
-            This course offers a comprehensive guide for aspiring cloud practitioners 
-            interested in learning the complete lifecycle of virtual instance deployment and configuration 
-            on the cloud platform Linode...
-            - Linux Foundations
-            - Foundations of Server Security
-            - Server Scaling
+            Comprehensive introduction into the lifecycle of virtual instance deployment and 
+            configuration management for Cloud Practitioners of the Linode Platform.
+            - Linode CLI & API
+            - Server & Cloud Security
+            - Server & Database Scaling
+            - Linux Compute Administration
             
         - name: Learn Linux in 5 Days
           start: 2023
@@ -168,11 +168,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Cisco Networking
-        level: 99%
-
-      - name: Juniper Networking
-        level: 95%
+      - name: Networking
+        level: 100%
 
       - name: Akamai Cloud Solutions
         level: 90%
