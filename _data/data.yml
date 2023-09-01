@@ -51,12 +51,10 @@ sidebar:
 career-profile:
     title: Career Overview
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Motivated Infrastructure Technician with a demonstarted ability to perform
+      engineering-level troubleshooting in Cisco, Juniper, and Versa Networks enviroments. Experience
+      managing Networking, Compute, Storage, and Cloud Infrastructures. Huge fan of open-source
+      software! 
 education:
     title: Education
     info:
@@ -69,8 +67,6 @@ education:
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
       - degree: Certified Enterprise PC Support Technician
         university: Pickens Technical College
@@ -78,7 +74,6 @@ education:
         details: |
           Intoduction to the industry of servicing, maintaining, 
           and repairing computers, computer and networking systems.
-
             - Maintain, repair, and build PCs
             - Analyze and secure systems, network, and data
             - Work with Windows, Linux, switches, routers, cabling, network addressing,
@@ -92,7 +87,7 @@ experiences:
         company: Nordstrom, Denver
         details: |
           Aide in the creation and implementation of automation tooling plus act as a mentor for Technician 2s. 
-          Implement, manage, and maintain 320+ SDWAN Data Circuits including 3x Data Center locations. 
+          Implementing & managing 300+ SDWAN data circuits including 3x Data Center locations. 
           Using tools such as Using tools such as NewRelic, Versa Networks, Git, Python3, Stackstorm Composer, and Terraform.
 
       - role: Network Technician II
@@ -114,49 +109,58 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Akamai Cloud Solutions
+        - name: Akamai Cloud Partner
           start: 2023
           end: 2025
           organization: Akamai
-          credentialid: 111-222
+          #credentialid: 111-222
           credentialurl: www.linode.com
-          credentialname: Linode Master Class
+          credentialname: Cloud Computing Masterclass
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            This course offers a comprehensive guide for aspiring cloud practitioners 
+            interested in learning the complete lifecycle of virtual instance deployment and configuration 
+            on the cloud platform Linode...
+            - Linux Foundations
+            - Foundations of Server Security
+            - Server Scaling
+            
+        - name: Learn Linux in 5 Days
+          start: 2023
+          organization: Udemy
+          #credentialid: 111-222
+          credentialurl: https://gooby-s3.us-southeast-1.linodeobjects.com/udemy_learn_linux_in_5_days_and_level_up_your_carerr_jcannon_mattFaulkner_certificate.pdf
+          credentialname: Learn Linux in 5 Days & Level Up your Career
+          details: |
+            Use the in-demand Linux skills you learn in this course to get promoted or start a new career as a Linux professional. 
+            - CLI Fundementals
+            - File Permissions & Management
+            - Automation using cron
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Side projects that I participate in for fun.
     assignments:
       - title: BlueBotPC LLC
         link: "https://www.bluebotpc.com"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Family-owned IT Services Provider based in New Salem, North Dakota"
+    
+      - title: Blog
+        link: "https://www.mattfaulkner.net"
+        tagline: "Personal Blog & Online Space"
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below you will find a short list of my favorite Open-Source programs that I have contributed too.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Pi-Hole
+        link: "https://github.com/pi-hole/pi-hole"
+        tagline: "A black hole for Internet advertisements."
+        
+      - title: Goobs Blocklist 
+        link: "https://github.com/GoobyFRS/gooby-tools/blob/main/pihole/blocklist.txt"
+        tagline: "Goobs hostfile for pi-hole."
 
 skills:
     title: Skills &amp; Proficiency
