@@ -1,7 +1,4 @@
-#
 # Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -35,17 +32,20 @@ sidebar:
       info:
         - idiom: English
           level: Native
+        
+        - idiom: Spanish
+          level: Beginner
 
     interests:
       title: Interests
       info:
-        - item: Gaming
+        - item: Agriculture
           link:
 
         - item: Motorsports
           link:
 
-        - item: Agriculture
+        - item: Gaming
           link:
 
 career-profile:
@@ -55,7 +55,6 @@ career-profile:
       engineering-level troubleshooting in Cisco, Juniper, and Versa Networks environments. I am experienced
       in managing networking, compute, storage, and cloud infrastructures and technologies.
  
-
 education:
     title: Education
     info:
@@ -129,7 +128,7 @@ certifications:
         - name: Learn Linux in 5 Days
           start: 2023
           organization: Udemy
-          credentialid: UC-31651e38-c00a-4cde-8645-08ebfa07b97
+          credentialid: 08ebfa07b97 #UC-31651e38-c00a-4cde-8645-08ebfa07b97
           credentialurl: gooby-s3.us-southeast-1.linodeobjects.com/udemy_learn_linux_in_5_days_and_level_up_your_carerr_jcannon_mattFaulkner_certificate.pdf
           credentialname: Learn Linux in 5 Days & Level Up your Career
           details: |
@@ -141,18 +140,22 @@ certifications:
 projects:
     title: Projects
     intro: >
-      Side projects that I participate in for fun.
+      Side projects that I participate in for fun!
     assignments:
       - title: BlueBotPC LLC
         link: "https://www.bluebotpc.com"
         tagline: "Family-owned IT Services Provider based in New Salem, North Dakota"
     
-      - title: Blog
+      - title: WordPress Blog
         link: "https://www.mattfaulkner.net"
         tagline: "Personal Blog & Online Space"
 
+      - title: Resume Hosting
+        link: "https://cv.bluebotpc.com"
+        tagline: "Online Resume Hosting"
+
 oss:
-    title: OSS Contributions
+    title: Open Source Contributions
     intro: >
       Below you will find a short list of my favorite Open-Source programs that I have contributed too.
     contributions:
@@ -171,15 +174,14 @@ skills:
       - name: Networking
         level: 100%
 
-      - name: Akamai Cloud Solutions
+      - name: Akamai Cloud
+        level: 95%
+
+      - name: Linux Administration
         level: 90%
 
       - name: HTML5 & CSS3
-        level: 80%
-
-      - name: Python3
-        level: 40%
-
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
