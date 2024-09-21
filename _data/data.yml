@@ -10,7 +10,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: matt@bluebotpc.com
+    email: matt@mattfaulkner.net
     #phone: 012 345 6789
     timezone: America/Denver
     #citizenship:
@@ -21,7 +21,7 @@ sidebar:
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
-    twitter: '@frsgooby'
+    #twitter: '@frsgooby'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
@@ -87,16 +87,19 @@ experiences:
         time: 2022 - Present
         company: Nordstrom, Denver
         details: |
-          Experience in the lifecycle management of various python-based automation tools and platforms. 
-          Implementing & managing 300+ SDWAN data circuits including 3x Data Center locations. 
-          Using tools such as NewRelic, Versa Networks, Git, Python3, Stackstorm Composer, and Terraform.
+          Mentoring Technician 1-2s in Network Troubleshooting and Incident Response.
+          Lead Escalation point for Wireless, Wired, and SD-WAN networks.
+          Lead technical teams during critical business outages. Focusing on business continuity and availability of network services.
+          Creating and documenting actionable alerts based on Site Reliability Engineering and ITILv4 best practices. Driving high quality IT Service Management (ISTM).
+
 
       - role: Network Technician II
         time: 2020 - 2022
         company: Nordstrom, Denver
         details: | 
           Manage and maintain 320+ MPLS Data Circuits including 3x Data Center locations.
-          Subject Matter Expert in Cisco Networks. Using tools such as SolarWinds, LiveNX, and DataDog.
+          Participate in proactive and reactive incident management.
+          Created technical documentation for Versa Networks SD-WAN appliances. Including high level architecture diagrams, physical cut sheets, and troubleshooting guides.
 
       - role: IT Specialist
         time: 2019 - 2020
@@ -115,7 +118,7 @@ certifications:
           end: 2025
           organization: Akamai
           #credentialid: 111-222
-          credentialurl: gooby-s3.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png
+          credentialurl: https://mattfaulkner.us-southeast-1.linodeobjects.com/linodeSolutionsPartnerBadge.png
           credentialname: Cloud Computing Masterclass
           details: |
             Comprehensive introduction into the lifecycle of virtual instance deployment and 
@@ -129,7 +132,7 @@ certifications:
           start: 2023
           organization: Udemy
           credentialid: 08ebfa07b97 #UC-31651e38-c00a-4cde-8645-08ebfa07b97
-          credentialurl: gooby-s3.us-southeast-1.linodeobjects.com/udemy_learn_linux_in_5_days_and_level_up_your_carerr_jcannon_mattFaulkner_certificate.pdf
+          credentialurl: "https://mattfaulkner.us-southeast-1.linodeobjects.com/udemy_learn_linux_in_5_days_and_level_up_your_carerr_jcannon_mattFaulkner_certificate.pdf"
           credentialname: Learn Linux in 5 Days & Level Up your Career
           details: |
             Use the in-demand Linux skills you learn in this course to get promoted or start a new career as a Linux professional. 
@@ -142,17 +145,9 @@ projects:
     intro: >
       Side projects that I participate in for fun!
     assignments:
-      - title: BlueBotPC LLC
-        link: "https://www.bluebotpc.com"
-        tagline: "Family-owned IT Services Provider based in New Salem, North Dakota"
-    
-      - title: WordPress Blog
+      - title: Personal Blog
         link: "https://www.mattfaulkner.net"
-        tagline: "Personal Blog & Online Space"
-
-      - title: Resume Hosting
-        link: "https://cv.bluebotpc.com"
-        tagline: "Online Resume Hosting"
+        tagline: "Personal Website"
 
 oss:
     title: Open Source Contributions
@@ -171,7 +166,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Networking
+      - name: Juniper Networking
         level: 100%
 
       - name: Akamai Cloud
@@ -184,4 +179,4 @@ skills:
         level: 85%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Hosted with <i class="fas fa-heart"></i> by <a href="https://www.mattfaulkner.net" target="_blank" rel="nofollow">Matt Faulkner</a>
