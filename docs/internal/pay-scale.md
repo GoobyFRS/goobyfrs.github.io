@@ -7,6 +7,8 @@ nav_order: 4
 ---
 # Pay Scale
 
+> Content is subject to change
+
 | **Role Type** | **Title**      | **Lowest Pay** | **Highest Pay** |
 | ---           | ---            | ---            | --- |
 | Executive     | President      | 15%/Mo/NetProfit | 25%/Mo/NetProfit |
@@ -26,4 +28,13 @@ nav_order: 4
 
 ### Title Pool
 
+- Assistant
+- Technician
+- Engineer
+
 ### Teams
+
+- Executive Team
+- Sales Team
+- Support Team
+- Platform Engineering Team
