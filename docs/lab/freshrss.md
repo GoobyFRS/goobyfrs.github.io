@@ -2,6 +2,8 @@
 layout: default
 title: FreshRSS
 nav_enabled: true
+parent: Lab Documents
+nav_order: 3
 ---
 # FreshRSS
 

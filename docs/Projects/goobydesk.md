@@ -7,6 +7,8 @@ nav_order: 1
 ---
 # GoobyDesk Home
 
+[GoobyDesk Repo](https://github.com/GoobyFRS/GoobyDesk)
+
 Simple, Lightweight, Databaseless Service Desk for Small MSPs and Home Labbers 
 
 ## Code Standards
