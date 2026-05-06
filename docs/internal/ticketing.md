@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: Ticket Handling
 nav_enabled: true
 parent: SMB Projects

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: AppID
 nav_enabled: true
 parent: SMB Projects

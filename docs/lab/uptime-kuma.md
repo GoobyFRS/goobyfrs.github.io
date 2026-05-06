@@ -3,9 +3,11 @@ layout: default
 title: UptimeDawg
 nav_enabled: true
 ---
-# UptimeDawg Monitoring
+# Monitoring
 
-## Website Monitoring
+## UptimeDawg Monitoring
+
+### Website Monitoring
 
 **Heartbeat Interval:** 300 Seconds
 
@@ -17,7 +19,7 @@ nav_enabled: true
 
 **Max Redirects:** 2x
 
-### Minecraft Server Monitoring
+#### Minecraft Server Monitoring
 
 **Heartbeat Interval:** 300 Seconds
 
@@ -25,5 +27,10 @@ nav_enabled: true
 
 **Heartbeat Retry Interval:** 60 Seconds
 
+#### Alerting Workflow
 
-### Alerting Workflow
+## New Relic Monitoring
+
+## NR Agent
+
+#### Alerting Workflow

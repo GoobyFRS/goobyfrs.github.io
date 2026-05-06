@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: Pay Scale
 nav_enabled: true
 parent: SMB Projects

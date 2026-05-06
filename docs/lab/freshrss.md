@@ -2,7 +2,7 @@
 layout: default
 title: FreshRSS
 nav_enabled: true
-parent: Lab Documents
+parent: Home Lab
 nav_order: 3
 ---
 # FreshRSS
