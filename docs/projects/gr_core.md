@@ -25,6 +25,7 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 
 - uuid
 - service_id
+- service_status
 - service_name
 
 ## Code Standards
