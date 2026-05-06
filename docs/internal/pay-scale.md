@@ -2,7 +2,7 @@
 layout: default
 title: Pay Scale
 nav_enabled: true
-parent: Internal Projects
+parent: SMB Projects
 nav_order: 4
 ---
 # Pay Scale

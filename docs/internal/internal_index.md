@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Internal Projects
+title: SMB Projects
 nav_enabled: true
 nav_order: 0
 ---

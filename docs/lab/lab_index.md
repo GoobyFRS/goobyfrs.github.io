@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Documents
+title: Home Lab
 nav_enabled: true
 nav_order: 0
 ---
