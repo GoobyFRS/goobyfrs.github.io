@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: minimal
 title: WordPress
 nav_enabled: true
 parent: SMB Projects
