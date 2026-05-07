@@ -2,6 +2,8 @@
 layout: default
 title: UptimeDawg
 nav_enabled: true
+parent: Home Lab
+nav_order: 4
 ---
 # Monitoring
 
