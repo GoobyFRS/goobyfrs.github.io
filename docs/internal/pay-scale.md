@@ -3,7 +3,7 @@ layout: minimal
 title: Pay Scale
 nav_enabled: true
 parent: SMB Projects
-nav_order: 4
+nav_order: 3
 ---
 # Pay Scale
 
