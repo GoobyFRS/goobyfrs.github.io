@@ -6,8 +6,10 @@ nav_order: 0
 ---
 # Internal Documents
 
-## Faulkner Consulting
-
 ## BlueBotPC
 
+PC Building, Support, and Managed Services. Founded 2017.
+
 ## GR Host
+
+Hosting and Managed Cloud Services. Founded 2023.
