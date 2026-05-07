@@ -12,32 +12,36 @@ nav_order: 2
 
 When a production impacting issue is identified, it **must** be submitted through the Ticket Intake Process.
 
-Tickets **should** be submitted via ```https://helpdesk.bluebotpc.com/```.
+Tickets **should** be submitted via ```https://support.mattfaulkner.net/```.
 
-Tickets **cannot** be submitted via Email (Gmail) and will automatically open a Service Desk Ticket.
+Tickets **cannot** be submitted via Email (Gmail) and will not automatically open a Service Desk Ticket. (Feature disabled)
 
 Tickets **can** be submitted by phone at +1-701-581-5280.
 
 Escalations **should** come over the phone.
 
-Tickets will come in unassigned.
+Tickets **will** come in unassigned in the support queue.
 
-* Unassigned tickets **should** be assigned in a round-robin manner at 0930 on business days.
-* Technicians **can** pickup unassigned tickets at any time.
+Technicians **should** pickup unassigned tickets at any time.
 
 Incidents **should** be worked by Priority and then by Created date.
 
-**First In, First Out.**
+**Queues:*** Support, Escalations, Billing
 
 ### Ticket SLAs
 
-Low - 5 Business Days
+| Status | In-Pro | Resolved |
+| ---- | --- | --- |
+| Planning | 5 | 14 |
+| Low | 2 | 10 |
+| Medium | 1 | 5 |
+| High | 1 | 1 |
 
-Medium - 1 Business Day
+Requests over 14 days **should** go on the MHC Planning Deck.
 
-High - Same Day
+Platform bugs, issues, and feature requests should go through GitHub Issues.
 
-### Determining Ticket Priority
+### Determine Ticket Priority
 
 Low - Impact to a single user or device that does not impede normal business operations.
 
@@ -45,13 +49,11 @@ Medium - Impact to a service but a workaround exist.
 
 High - Critical service is performing below acceptable levels or unavailable. Affecting business operations but not a full work stoppage.
 
-P0 - Critical outage resulting in loss of revenue.
-
 ### Steps in the Major Ticket Process
 
 1. Intake
 2. Triage
-3. Discord Channel
+3. 
 4. Notification Email
 
 ### Ticket Resolution
