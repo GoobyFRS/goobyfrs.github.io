@@ -12,10 +12,25 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 **Basic ITSM Ticket management (ITSM)**
 
 - uuid
-- NAME/USERNAME
+- ticket_number
+- ticket_status (Default:new)
+- requestor_name
+- requestor_username
 - ticket_type
 - ticket_subject
 - ticket_body
+- ticket_impact (Default:low)
+- ticket_urgency (Default:low)
+- escalation_level (Default:0)
+- assigned_queue (Default:support)
+- assigned_technician (Default:none)
+- ticket_worknotes
+- ticket_created_timestamp (year-month-day-24:00)
+- ticket_escalation_timestamp (year-month-day-24:00)
+- ticket_closed_timestamp (year-month-day-24:00)
+- ticket_acknowledged_timestamp
+- requestor_vip_status (Default:false)
+- ticket_overdue (Default:false)
 
 **Employee & Access Management (HR)**
 
@@ -46,10 +61,17 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 - password_last_changed
 - account_locked (Default: true)
 - failed_login_attempts
+- has_freshrss_access
+- has_jellyfin_access
+- has_nextcloud_access
+- has_tailnet_access
+- has_gitea_access
+- has_discord_access
+- has_slack_access
 
 **Customer Tracker (CRM)**
 
-```/crm/dashboard/``` - 
+```/crm/dashboard/``` - Table displaying CID, Full Name, 
 
 - uuid
 - customer_id (CID<count>)
@@ -78,6 +100,9 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 - preferred_contact_method
 - marketing_opt_in
 - maintenance_notifications_enabled
+- has_freshrss_access
+- has_jellyfin_access
+- has_nextcloud_access
 
 **Service Database**
 
