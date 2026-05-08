@@ -40,7 +40,9 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 - employee_last_name
 - employee_preferred_name
 - employee_dob (year-month-day)
-- employee_state
+- employee_email
+- employee_phone
+- employee_timezone
 - employee_ingame_username
 - employee_chat_userid
 - employee_hire_date (year-month-day)
@@ -48,7 +50,9 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 - employment_status
 - rehire_status (Default:yes)
 - employee_role (Default:technician)
-- employee_compensation (Default:null)
+- compensation_type
+- base_salary
+- hourly_rate
 - salary_exempt (Default:no)
 - is_bonus_eligible (Default:no)
 - bonus_rate (Default:0)
@@ -79,7 +83,7 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 - customer_last_name
 - customer_preferred_name
 - customer_ingame_username
-- customer_voicechat_username
+- customer_discord_user_id
 - customer_contact_email
 - customer_account_created_date (year-month-day)
 - customer_account_status (Default:active)
@@ -88,10 +92,10 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 - customer_account_value
 - is_content_creator (Default:no)
 - vat_taxid (Default:null)
-- mfa_enabled
-- last_login
+- customer_mfa_enabled
+- customer_last_login
 - password_last_changed
-- account_locked
+- customer_account_locked
 - customer_last_login
 - customer_last_order_date
 - customer_last_payment_date
@@ -113,6 +117,7 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 - service_name
 - service_status
 - provisioning_status
+- service_ip
 - service_subdomain
 - service_created_timestamp
 - service_terminated_timestamp
