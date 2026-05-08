@@ -44,8 +44,10 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 
 **Customer Tracker (CRM)**
 
+```/crm/dashboard/``` - 
+
 - uuid
-- customer_id (C<count>)
+- customer_id (CID<count>)
 - customer_first_name
 - customer_last_name
 - customer_prefered_name
@@ -59,14 +61,22 @@ GoobyDesk Extended! Fully Featured ITSM Platform for Small Businesses
 - customer_account_value
 - customer_helpdesk_tickets
 - is_content_creator (Default:no)
+- vat_taxid (Default:null)
 
 **Service Database**
 
 - uuid
 - service_id
-- service_status
+- service_sku
 - service_name
-- service_
+- service_status
+- service_subdomain
+- service_created_timestamp
+- service_terminated_timestamp
+- service_updated_timestamp
+- service_provision_source
+- service_rcon_port
+- service_rcon_pwd
 
 ## Code Standards
 
