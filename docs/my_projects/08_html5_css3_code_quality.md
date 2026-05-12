@@ -3,7 +3,7 @@ layout: minimal
 title: HTML5 and CSS3 Code Quality
 nav_enabled: true
 parent: Open Source Projects
-nav_order: 7
+nav_order: 8
 ---
 
 ## Philosophy
