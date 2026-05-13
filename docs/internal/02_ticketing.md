@@ -30,7 +30,7 @@ Incidents **should** be worked by Priority and then by Created date.
 
 ### Ticket SLAs
 
-| Status | In-Pro | Resolved |
+| Status | In-Progress | Resolved |
 | ---- | --- | --- |
 | Planning | 5 | 14 |
 | Low | 2 | 10 |
@@ -52,9 +52,8 @@ High - Critical service is performing below acceptable levels or unavailable. Af
 ### Steps in the Major Ticket Process
 
 1. Intake
-2. Triage
-3. 
-4. Notification Email
+1. Triage
+1. Notification Email
 
 ### Ticket Resolution
 

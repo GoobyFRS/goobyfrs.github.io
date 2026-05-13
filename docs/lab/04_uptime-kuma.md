@@ -11,6 +11,8 @@ nav_order: 4
 
 ### Website Monitoring
 
+> 15 - 21 Minutes
+
 **Heartbeat Interval:** 300 Seconds
 
 **Retries:** 15
@@ -23,6 +25,8 @@ nav_order: 4
 
 #### Minecraft Server Monitoring
 
+> 15 - 21 Minutes
+
 **Heartbeat Interval:** 300 Seconds
 
 **Retries:** 15
@@ -30,6 +34,8 @@ nav_order: 4
 **Heartbeat Retry Interval:** 60 Seconds
 
 #### Alerting Workflow
+
+Alert -> GR_Core API -> Ticket Submitted -> Chat Webhook Sent
 
 ## New Relic Monitoring
 
