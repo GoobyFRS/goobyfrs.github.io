@@ -5,7 +5,7 @@ nav_enabled: true
 parent: Open Source Projects
 nav_order: 6
 ---
-## JavaScript
+## # JavaScript Standards & Style Guide
 
 ### Core Principles
 

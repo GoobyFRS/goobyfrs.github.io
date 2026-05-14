@@ -9,7 +9,7 @@ nav_order: 3
 
 [Gooby_RCON Repo](https://github.com/GoobyFRS/Gooby_RCON)
 
-Modern Minecraft RCON Client by the Gooby
+Modern Minecraft RCON Client by the Gooby.
 
 **Current Version:** 0.9.0
 

@@ -5,7 +5,7 @@ nav_enabled: true
 parent: Open Source Projects
 nav_order: 5
 ---
-# Code Standards & Style Guide
+# Python3 Standards & Style Guide
 
 ## Language Preference
 - **Primary language**: Python 3 (use when possible)

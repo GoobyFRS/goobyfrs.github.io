@@ -5,11 +5,14 @@ nav_enabled: true
 parent: Home Lab
 nav_order: 4
 ---
-# Monitoring with Uptime-Kuma
+# Uptime-Kuma
 
 [GitHub Repo](https://github.com/louislam/uptime-kuma)
 
 - IPv4, IPv6, SDWAN enabled.
+- 2 vCPU Cores
+- 1 GB Memory
+- 48 GB SSD
 
 ### Website Monitoring
 

@@ -5,6 +5,7 @@ nav_enabled: true
 parent: Open Source Projects
 nav_order: 8
 ---
+# HTML5 Standards & Style Guide
 
 ## Philosophy
 
