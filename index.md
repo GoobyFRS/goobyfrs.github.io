@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+color_scheme: dark
 ---
 Welcome to Matts Knowlede Base, hosted on GitHub Pages!
 

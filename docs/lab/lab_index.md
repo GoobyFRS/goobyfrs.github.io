@@ -3,6 +3,7 @@ layout: default
 title: Home Lab
 nav_enabled: true
 nav_order: 0
+color_scheme: dark
 ---
 # The BirdHouse Docs
 
