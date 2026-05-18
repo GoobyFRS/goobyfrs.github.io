@@ -2,3 +2,5 @@ title: Matts KB
 description: Matts AIO KB
 remote_theme: just-the-docs/just-the-docs
 url: https://github.com/GoobyFRS/goobyfrs.github.io
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
