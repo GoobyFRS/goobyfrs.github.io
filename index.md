@@ -3,18 +3,10 @@ title: Home
 layout: home
 color_scheme: dark
 ---
-Welcome to Matts Knowlede Base, hosted on GitHub Pages!
+Welcome to Matts Knowlede Base; hosted on GitHub Pages!
 
-[Submit a Ticket](https://support.mattfaulkner.net)
+If you have found your way here, this is just a basic knowledge base I plan to build around my home lab for friends, family, random people, and myself.
 
-[UptimeDawg](https://uptime.mattfaulkner.net/status/default)
+[My Resume](cv.mattfaulkner.net) - [Ruby's Resume](https://rubyskinner.github.io)
 
-[Join My Slack](https://mattfaulkner.slack.com/archives/C09VB82KTEU)
-
-[My Website]()
-
-[My Resume]()
-
-[BlueBotPC Website](https://bluebotpc.com/)
-
-[GR Host Website]()
+[Submit a Ticket](https://support.mattfaulkner.net) - [UptimeDawg](https://uptime.mattfaulkner.net/status/default)

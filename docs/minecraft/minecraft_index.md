@@ -20,3 +20,16 @@ color_scheme: dark
 [Startup Script Generator](https://docs.papermc.io/misc/tools/start-script-gen/)
 
 [Aikars Flags](https://docs.papermc.io/paper/aikars-flags/) - Start Up Flags Comments
+
+## Discord
+
+[Invite Link](ge6necsyxR)
+
+- ```welcome```: Welcome Info and Rules
+- ```announcements```:
+- ```community```: Group Chat
+- ```birdhousemc```: Minecraft Server Cross Chat
+- ```bot-spam```: Tatsu Bot Channel
+- ```memes-n-nsfw```: Memes and NSFW content MUST go here.
+- ```gaming```: Chat anything about games!
+- ```tech-alerts```: Private Channel
