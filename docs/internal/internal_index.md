@@ -3,7 +3,6 @@ layout: default
 title: SMB Projects
 nav_enabled: true
 nav_order: 0
-color_scheme: dark
 ---
 # Internal Documents
 
@@ -11,9 +10,46 @@ color_scheme: dark
 
 [BlueBotPC](https://bluebotpc.com/) - Enabling Growth thru Strategic IT Infrastructure Engineering. Founded 2017.
 
+**Customers:** SMBs with 5 - 150 employees.
+
+**Advantages:**
+
+**Regulations:** Basic
+
+**Service Lines:** 
+
+- General Consulting
+- Hardware & Software Procurement
+- Remote & Onsite Technical Support
+- Incident Response
+
+**R&D:**
+
+**Marketing & Growth:**
+
+
 ## GR Host
 
 Hosting and Managed Cloud Services. Founded 2023.
+
+**Customers:** Gamers and SMBs
+
+**Advantages:**
+
+**Regulations:** Basic
+
+**Service Lines:**
+
+- Managed Game Server Hosting
+- Managed Web Server Hosting
+- Managed WordPress Hosting
+- Managed NextCloud Hosting
+- CDN Solutions
+- Domain Management Solutions
+
+**R&D:**
+
+**Marketing and Growth:**
 
 ### Slack
 
