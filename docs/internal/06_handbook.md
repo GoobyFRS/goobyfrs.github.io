@@ -60,8 +60,6 @@ This handbook is not a contract of employment and may be updated at any time.
 
 Harassment, discrimination, retaliation, or hostile conduct will not be tolerated.
 
----
-
 # 3. Employment Classifications
 
 Employees may be classified as:
@@ -102,6 +100,55 @@ The following actions are prohibited:
 
 Violations may result in disciplinary action up to and including termination.
 
+### Work Hours and Scheduling
+
+Standard business hours are Monday through Friday, 9:00 AM to 5:00 PM. Some positions may require different schedules or on-call availability. Specific scheduling requirements will be discussed with your supervisor.
+
+## Compensation and Benefits
+
+### Compensation
+
+Employees are paid bi-weekly. Direct deposit is available and encouraged. Pay rates are reviewed annually based on performance and company growth.
+
+### Benefits
+
+Full-time employees are eligible for:
+
+- Health insurance (effective first of the month following 60 days of employment)
+- Paid time off (PTO)
+- Professional development opportunities
+- 401(k) retirement plan (after one year of service)
+
+### Paid Time Off (PTO)
+
+Full-time employees accrue PTO based on length of service:
+
+- 0-2 years: 12 days per year
+- 3-5 years: 18 days per year
+- 6+ years: 24 days per year
+
+PTO requests must be submitted at least one week in advance when possible.
+
+## Performance Expectations
+
+### Technical Proficiency
+
+Employees are expected to:
+
+- Maintain current knowledge of relevant technologies.
+- Complete assigned training and certifications.
+- Document work thoroughly.
+- Follow established procedures and best practices.
+
+### Customer Service
+
+Provide excellent customer service by:
+
+- Responding promptly to requests
+- Communicating clearly and professionally
+- Following up to ensure client satisfaction
+- Escalating issues when appropriate
+
 ---
 
 # 5. Remote Work Policy
@@ -125,6 +172,17 @@ Remote employees may not:
 - Share work devices with family or friends
 
 Employees working remotely are responsible for maintaining a workspace that supports confidentiality and productivity.
+
+### Remote Work Requirements
+
+Employees working remotely must:
+
+- Maintain a clean, dedicated, professional workspace.
+- Ensure reliable high-speed internet connection.
+- Be available during core business hours.
+- Attend virtual meetings as required.
+- Maintain same level of productivity and responsiveness as in-office.
+- Use company-approved VPN and security tools.
 
 ---
 
@@ -165,8 +223,6 @@ Employees may never:
 
 Failure to follow PCI-related policies may result in immediate disciplinary action.
 
----
-
 # 8. Acceptable Use Policy
 
 Company systems and networks are provided for authorized business use.
@@ -187,8 +243,6 @@ Employees may not use company resources to:
 
 All activity conducted on company-owned systems may be monitored.
 
----
-
 # 9. Password and MFA Requirements
 
 Employees must:
@@ -205,8 +259,6 @@ Password requirements:
 - Password reuse across systems is prohibited
 
 If an employee suspects account compromise, they must report it immediately.
-
----
 
 # 10. Device and Endpoint Security
 
@@ -226,8 +278,6 @@ Employees may not:
 
 Personally owned devices used for work must comply with company security requirements.
 
----
-
 # 11. VPN and Secure Access Requirements
 
 Remote access to company systems must occur through approved secure access solutions such as:
@@ -243,8 +293,6 @@ Employees must not:
 - Bypass company network security controls
 
 All remote access sessions may be logged and monitored.
-
----
 
 # 12. Data Handling and Classification
 
@@ -266,8 +314,6 @@ Employees must:
 
 Sensitive documents must not be discarded in regular trash bins.
 
----
-
 # 13. Clean Desk and Screen Policy
 
 Employees must:
@@ -278,8 +324,6 @@ Employees must:
 - Secure laptops and mobile devices
 
 PCI-related information must never be left visible in public or shared environments.
-
----
 
 # 14. Email and Communication Policy
 
@@ -292,8 +336,6 @@ Employees must not:
 - Share confidential data in public channels
 
 Phishing attempts or suspicious messages must be reported immediately.
-
----
 
 # 15. Incident Reporting
 
@@ -314,8 +356,6 @@ Employees should report incidents to:
 
 Prompt reporting helps minimize risk and maintain compliance.
 
----
-
 # 16. Physical Security
 
 Employees must:
@@ -325,6 +365,28 @@ Employees must:
 - Prevent unauthorized access to sensitive areas
 
 Devices containing company information should never be left unattended in vehicles or public places.
+
+---
+
+### Disclosure Requirements
+
+Employees must disclose:
+
+- Any financial interest in client organizations
+- Personal relationships with clients or competitors
+- Outside employment or consulting work
+- Board positions or advisory roles
+- Any situation that could create appearance of conflict
+
+### Prohibited Activities
+
+Employees may not:
+
+- Use company resources for personal gain
+- Accept gifts valued over $100 from clients or vendors
+- Perform unauthorized work for competitors
+- Share confidential information with outside parties
+- Use position to influence business decisions for personal benefit
 
 ---
 
