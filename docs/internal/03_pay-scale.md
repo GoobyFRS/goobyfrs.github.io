@@ -26,15 +26,37 @@ nav_order: 3
 | Technical     | Engineer 2      | 100,000  | 109,000 |
 | Technical     | Engineer 3      | 110,000  | 120,000 |
 
+Individual Contributor
+
+| **Role Type** | **Title** | **Low Pay** | High Pay** |
+| --- | --- | --- | --- |
+
+
 ### Title Pool
 
 - Assistant
 - Technician
+- Analyst
 - Engineer
+- Principle Engineer
+- Salesperson
+- Manager
+- Account Manager
+- Project Manager
+- Sales Manager
+- Vice President
+- President
 
 ### Teams
 
-- Executive Team
-- Sales Team
-- Support Team
-- Platform Engineering Team
+- Support
+- Sales
+- Billing
+- Operations
+- Engineering
+- Marketing
+- Finance
+- Human Reaources
+- Legal
+- Administration
+- Executive
