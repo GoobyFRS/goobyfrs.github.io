@@ -26,7 +26,7 @@ Technicians **should** pickup unassigned tickets at any time.
 
 Incidents **should** be worked by Priority and then by Created date.
 
-**Queues:*** Support, Escalations, Billing
+**Queues:** Support, Escalations, Billing
 
 ### Ticket SLAs
 
@@ -41,13 +41,25 @@ Requests over 14 days **should** go on the MHC Planning Deck.
 
 Platform bugs, issues, and feature requests should go through GitHub Issues.
 
-### Determine Ticket Priority
+### Determine Ticket Urgency
 
 Low - Impact to a single user or device that does not impede normal business operations.
 
 Medium - Impact to a service but a workaround exist.
 
 High - Critical service is performing below acceptable levels or unavailable. Affecting business operations but not a full work stoppage.
+
+Critical - 
+
+### Determine Ticket Impact
+
+Low -
+
+Medium - 
+
+High - 
+
+Critical - 
 
 ### Steps in the Major Ticket Process
 
