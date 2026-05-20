@@ -21,23 +21,35 @@ nav_order: 1
 
 ## Position Summary
 
-Support day-to-day operations across [BlueBotPC]() and [GR Host]() by assisting with customer communication, organization, scheduling, and general administrative tasks. Work closely with MATTFAULKNER to help maintain smooth business operations for both a professional consulting/MSP environment and a cloud hosting platform focused on Minecraft and game server hosting. This flexible remote role is ideal for someone who is dependable, organized, comfortable with technology, and able to adapt to a variety of support tasks as needed.
+Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR Host]() by assisting with customer communication, organization, scheduling, and general administrative tasks. Work closely with MATTFAULKNER to help maintain smooth business operations for both a professional consulting/MSP environment and a cloud hosting platform focused on Minecraft and game server hosting. This flexible remote role is ideal for someone who is dependable, organized, comfortable with technology, and able to adapt to a variety of support tasks as needed.
 
 ## Responsibilities
 
 ### Core Duties
 
-- [Primary responsibility 1]
-- [Primary responsibility 2]
-- [Primary responsibility 3]
-- [Primary responsibility 4]
-- [Primary responsibility 5]
+- Respond to emails, messages, and customer inquiries in a professional manner.
+- Assist with scheduling, task tracking, and general administrative organization.
+- Support basic customer service and client communication activities.
+- Help manage Discord servers, ticket systems, or internal communication platforms.
+- Maintain records, spreadsheets, documentation, and internal notes.
+- Perform basic technical troubleshooting and escalate issues when necessary.
+- Assist with onboarding documentation, account setup, or service coordination.
+- Monitor tasks, notifications, and operational dashboards for issues or updates.
+- Support small business operations across hosting, consulting, and administrative workflows.
+- Help maintain organization of files, digital assets, and business systems.
 
 ### Secondary Duties
 
-- [Supporting responsibility 1]
-- [Supporting responsibility 2]
-- [Supporting responsibility 3]
+- Assist with social media posts, announcements, or community engagement.
+- Help test new services, platforms, or internal tools.
+- Perform light moderation within online communities or support channels.
+- Assist with basic website updates or content management.
+- Help create guides, tutorials, FAQs, or technical documentation.
+- Participate in research for software, hosting solutions, or operational improvements.
+- Assist with inventory tracking, vendor coordination, or procurement tasks.
+- Support basic server administration or hosting-related maintenance tasks.
+- Help identify workflow improvements or automation opportunities.
+- Assist with event coordination, project planning, or internal initiatives.
 
 > This list is not exhaustive. Additional duties may be assigned as business needs evolve.
 
@@ -47,36 +59,38 @@ Support day-to-day operations across [BlueBotPC]() and [GR Host]() by assisting 
 
 ### Required
 
-- Must be at least 16 years old.
-- [X] years of experience in [relevant field or technology]
-- [Specific skill or tool proficiency]
-- [Specific skill or tool proficiency]
+- Strong verbal and written communication skills.
+- Experience with common productivity and collaboration platforms.
+- Ability to work independently and manage tasks in a remote environment.
+- Strong organizational and time management skills.
+- Professional customer service and problem-solving abilities.
+- Willingness to learn new technologies and adapt to evolving workflows.
 
 ### Preferred
 
-- [Nice-to-have certification or experience]
-- [Nice-to-have skill]
-- [Familiarity with specific platforms, vendors, or environments]
+- Experience with customer support, moderation, or online community management.
+- Experience supporting Minecraft servers, game hosting platforms, or web hosting services.
+- [CompTIA IT Fundementals+](https://www.comptia.org/en-us/certifications/itf-pro/) Certification or similar.
 
 ## Technical Skills
 
-*Complete as applicable to the role.*
-
-| Area | Required | Preferred |
-|---|---|---|
-| [e.g., Networking] | [e.g., Cisco IOS, VLANs, BGP] | [e.g., SD-WAN, MPLS] |
-| [e.g., Security] | [e.g., Firewall management] | [e.g., SIEM, IDS/IPS] |
-| [e.g., Platforms] | [e.g., Windows Server] | [e.g., Linux, VMware] |
+- Familair with Windows 10 & Windows 11
+- Familair with IDEs (VSCode/Sublime)
+- Basic TCP/IP Network Knowledge
 
 ## Competencies
 
 Key behaviors and attributes for success in this role:
 
-- **Communication** — [e.g., Clearly documents and communicates technical issues to non-technical stakeholders]
-- **Problem Solving** — [e.g., Diagnoses issues methodically and escalates appropriately]
-- **Reliability** — [e.g., Dependable during scheduled hours and on-call windows]
-- **Attention to Detail** — [e.g., Accurate documentation and change logging]
-- **Collaboration** — [e.g., Works effectively across teams and with external vendors]
+- Customer-focused communication.
+- Attention to detail.
+- Reliability and accountability.
+- Adaptability in fast-changing technical environments.
+- Ability to prioritize and multitask effectively.
+- Team collaboration and professionalism.
+- Initiative and self-directed learning.
+- Documentation and process-oriented thinking.
+- Calm and professional handling of technical issues and customer concerns.
 
 ## Working Conditions
 
@@ -100,7 +114,3 @@ Key behaviors and attributes for success in this role:
 ## Equal Employment Opportunity
 
 [MATTFAULKNER] is an equal opportunity employer. All qualified applicants will receive consideration without regard to race, religion, color, sex, gender identity, sexual orientation, national origin, age, disability, veteran status, or any other protected status under applicable law.
-
----
-
-*[MATTFAULKNER] — Job Description — v1.0 — [Insert Date]*

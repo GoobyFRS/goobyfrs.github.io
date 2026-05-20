@@ -22,16 +22,15 @@ nav_order: 3
 | Engineer 3 | Engineering | 110k | 120k |
 | Sales Engineer | Sales | xxxx | xxxx |
 
-
 **Leaders**
 
 | **Role Type** | **Title** | **Low Pay** | **High Pay** |
 | --- | --- | --- | --- |
-| Manager | Support | x | x |
-| Manager | Sales | x | x |
-| Manager | Engineering | x | x |
-| Vice President | x | 10%/Mo/NetProfit | 15%/Mo/NetProfit |
-| President | x | 15%/Mo/NetProfit | 25%/Mo/NetProfit |
+| Manager | Support | xxxx | xxxx |
+| Manager | Sales | xxxx | xxxx |
+| Manager | Engineering | xxxx | xxxxx |
+| Vice President | xxxx | 10%/Mo/NetProfit | 15%/Mo/NetProfit |
+| President | xxxx | 15%/Mo/NetProfit | 25%/Mo/NetProfit |
 
 ### Title Pool
 
