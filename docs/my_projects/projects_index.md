@@ -28,6 +28,7 @@ color_scheme: dark
 sudo ufw default deny incoming
 sudo ufw default allow outgoing
 sudo ufw logging on
+sudo ufw allow in on tailscale0
 sudo ufw allow ssh
 sudo ufw allow http
 sudo ufw allow 80/udp
