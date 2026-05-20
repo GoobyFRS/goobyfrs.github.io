@@ -17,24 +17,25 @@ nav_order: 3
 | Sales/BizDev  | Salesperson     | Variable | Commission |
 | Support       | Account Manager | $25/Hour | $28/Hour |
 | Support       | Project Manager | Variable | Variable |
-| Support       | Manager         | $40/Hour | $55/Hour |
-| Support       | Assistant       | $10/Hour | $14/Hour |
-| Technical     | Technician 1    | $22/Hour | $25.50/Hour |
-| Technical     | Technician 2    | $25/Hour | $29/Hour |
-| Technical     | Technician 3    | $28/Hour | $32/Hour |
 | Technical     | Engineer 1      | 89,000   | 99,000 |
 | Technical     | Engineer 2      | 100,000  | 109,000 |
 | Technical     | Engineer 3      | 110,000  | 120,000 |
 
 Individual Contributor
 
-| **Role Type** | **Title** | **Low Pay** | High Pay** |
+| **Title** | **Unit** | **Low Pay** | **High Pay** |
 | --- | --- | --- | --- |
+| Assistant | Support | $10/Hour | $14/Hour |
+| Technician 1  | Support | $22/Hour | $25.50/Hour |
+| Technician 2  | Support  | $25/Hour | $29/Hour |
+| Technician 3  | Support  | $28/Hour | $32/Hour |
+| Engineer 1 | Engineering | x | x |
 
 Leaders
 
-| **Role Type** | **Title** | **Low Pay** | High Pay** |
+| **Role Type** | **Title** | **Low Pay** | **High Pay** |
 | --- | --- | --- | --- |
+| Manager | Support | $40/Hour | $50/Hour |
 
 
 ### Title Pool
