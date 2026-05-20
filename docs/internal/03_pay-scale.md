@@ -31,6 +31,11 @@ Individual Contributor
 | **Role Type** | **Title** | **Low Pay** | High Pay** |
 | --- | --- | --- | --- |
 
+Leaders
+
+| **Role Type** | **Title** | **Low Pay** | High Pay** |
+| --- | --- | --- | --- |
+
 
 ### Title Pool
 
