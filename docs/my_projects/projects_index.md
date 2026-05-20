@@ -7,19 +7,9 @@ color_scheme: dark
 ---
 # Open Source Projects
 
-[GR_Core](https://github.com/GoobyFRS/GR_Desk)
+[GR_Core](https://github.com/GoobyFRS/GR_Desk) - [Gooby_RCON](https://github.com/GoobyFRS/Gooby_RCON) - [GoobyDesk](https://github.com/GoobyFRS/GoobyDesk)
 
-[Gooby_RCON](https://github.com/GoobyFRS/Gooby_RCON)
-
-[GoobyDesk](https://github.com/GoobyFRS/GoobyDesk)
-
-[Goobs WiFi Scanner](https://github.com/GoobyFRS/Goobs-WiFi-Scanner)
-
-[blocklist](https://github.com/GoobyFRS/blocklist)
-
-[GoobyDDNS_Windows](https://github.com/GoobyFRS/GoobyDDNS_Windows)
-
-[GoobyDDNS_Linux](https://github.com/GoobyFRS/GoobyDDNS_Linux)
+[Goobs WiFi Scanner](https://github.com/GoobyFRS/Goobs-WiFi-Scanner) - [blocklist](https://github.com/GoobyFRS/blocklist) - [GoobyDDNS_Windows](https://github.com/GoobyFRS/GoobyDDNS_Windows) - [GoobyDDNS_Linux](https://github.com/GoobyFRS/GoobyDDNS_Linux)
 
 ### New Server Stand-Up Check List
 

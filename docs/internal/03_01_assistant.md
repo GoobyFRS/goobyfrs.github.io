@@ -27,17 +27,29 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 
 ### Core Duties
 
-- [Primary responsibility 1]
-- [Primary responsibility 2]
-- [Primary responsibility 3]
-- [Primary responsibility 4]
-- [Primary responsibility 5]
+- Respond to emails, messages, and customer inquiries in a professional manner.
+- Assist with scheduling, task tracking, and general administrative organization.
+- Support basic customer service and client communication activities.
+- Help manage Discord servers, ticket systems, or internal communication platforms.
+- Maintain records, spreadsheets, documentation, and internal notes.
+- Perform basic technical troubleshooting and escalate issues when necessary.
+- Assist with onboarding documentation, account setup, or service coordination.
+- Monitor tasks, notifications, and operational dashboards for issues or updates.
+- Support small business operations across hosting, consulting, and administrative workflows.
+- Help maintain organization of files, digital assets, and business systems.
 
 ### Secondary Duties
 
-- [Supporting responsibility 1]
-- [Supporting responsibility 2]
-- [Supporting responsibility 3]
+- Assist with social media posts, announcements, or community engagement.
+- Help test new services, platforms, or internal tools.
+- Perform light moderation within online communities or support channels.
+- Assist with basic website updates or content management.
+- Help create guides, tutorials, FAQs, or technical documentation.
+- Participate in research for software, hosting solutions, or operational improvements.
+- Assist with inventory tracking, vendor coordination, or procurement tasks.
+- Support basic server administration or hosting-related maintenance tasks.
+- Help identify workflow improvements or automation opportunities.
+- Assist with event coordination, project planning, or internal initiatives.
 
 > This list is not exhaustive. Additional duties may be assigned as business needs evolve.
 
@@ -47,15 +59,17 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 
 ### Required
 
-- Basic Windows 10/11 skills.
 - Strong verbal and written communication skills.
-- Reliable internet connection and ability to work remotely.
+- Experience with common productivity and collaboration platforms.
+- Ability to work independently and manage tasks in a remote environment.
+- Strong organizational and time management skills.
+- Professional customer service and problem-solving abilities.
+- Willingness to learn new technologies and adapt to evolving workflows.
 
 ### Preferred
 
 - Experience with customer support, moderation, or online community management.
-- Interest in technology, cloud hosting, or managed IT services.
-- Familiarity with Minecraft servers, modpacks, or game server administration.
+- Experience supporting Minecraft servers, game hosting platforms, or web hosting services.
 - [CompTIA IT Fundementals+](https://www.comptia.org/en-us/certifications/itf-pro/) Certification or similar.
 
 ## Technical Skills
@@ -68,11 +82,15 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 
 Key behaviors and attributes for success in this role:
 
-- **Communication** —  Strong verbal and written communication skills.
-- **Problem Solving** — Professional attitude and willingness to learn.
-- **Reliability** — Availability for flexible part-time scheduling. Ability to work independently with limited supervision.
-- **Attention to Detail** — Ability to stay organized and manage multiple tasks effectively.
-- **Collaboration** — Works well with Staff, Customers, and Vendors to coordinate and resolve issues.
+- Customer-focused communication.
+- Attention to detail.
+- Reliability and accountability.
+- Adaptability in fast-changing technical environments.
+- Ability to prioritize and multitask effectively.
+- Team collaboration and professionalism.
+- Initiative and self-directed learning.
+- Documentation and process-oriented thinking.
+- Calm and professional handling of technical issues and customer concerns.
 
 ## Working Conditions
 
@@ -96,7 +114,3 @@ Key behaviors and attributes for success in this role:
 ## Equal Employment Opportunity
 
 [MATTFAULKNER] is an equal opportunity employer. All qualified applicants will receive consideration without regard to race, religion, color, sex, gender identity, sexual orientation, national origin, age, disability, veteran status, or any other protected status under applicable law.
-
----
-
-*[MATTFAULKNER] — Job Description — v1.0 — [Insert Date]*
