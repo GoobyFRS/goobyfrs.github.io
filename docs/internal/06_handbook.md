@@ -5,12 +5,7 @@ nav_enabled: true
 parent: SMB Projects
 nav_order: 6
 ---
-
-# [MATTFAULKNER] Contractor Handbook
-{: .no_toc }
-
-**PCI Data Security Edition**
-{: .label .label-blue }
+# Employee Handbook
 
 | | |
 |---|---|
@@ -20,14 +15,7 @@ nav_order: 6
 
 > This handbook is not a contract of employment and does not create an employment relationship. It may be updated at any time. Contractors will be notified of material changes.
 
-<details open markdown="block">
-  <summary>Table of Contents</summary>
-  {: .text-delta }
-- TOC
 {:toc}
-</details>
-
----
 
 ## Welcome
 
@@ -117,11 +105,11 @@ Standard core availability hours are **Monday through Friday, 9:00 AM to 5:00 PM
 
 Contractors are expected to:
 
-- Maintain current knowledge of technologies relevant to the engagement
-- Complete any required training or certifications as specified
-- Document work thoroughly in agreed-upon systems
-- Respond promptly to requests during agreed availability hours
-- Escalate blockers or issues proactively
+- Maintain current knowledge of technologies relevant to the engagement.
+- Complete any required training or certifications as specified.
+- Document work thoroughly in agreed-upon systems.
+- Respond promptly to requests during agreed availability hours.
+- Escalate blockers or issues proactively.
 
 ---
 
@@ -131,29 +119,29 @@ Contractors are expected to:
 
 Remote work is the default for most [MATTFAULKNER] engagements. Remote contractors must:
 
-- Maintain a dedicated, private workspace where sensitive information cannot be viewed by others
-- Ensure a reliable high-speed internet connection throughout the engagement
-- Be available and responsive during agreed core hours
-- Use company-approved VPN and security tools at all times when accessing [MATTFAULKNER] systems
-- Lock devices when stepping away, even briefly
-- Use only approved communication platforms for business purposes
+- Maintain a dedicated, private workspace where sensitive information cannot be viewed by others.
+- Ensure a reliable high-speed internet connection throughout the engagement.
+- Be available and responsive during agreed core hours.
+- Use company-approved VPN and security tools at all times when accessing [MATTFAULKNER] systems.
+- Lock devices when stepping away, even briefly.
+- Use only approved communication platforms for business purposes.
 
 **Remote contractors may not:**
 
-- Use public, shared, or library computers for [MATTFAULKNER] work
-- Disable endpoint protection or security software
-- Store PCI data locally unless explicitly authorized in writing
-- Share work devices with family members or anyone else
-- Access [MATTFAULKNER] systems from public Wi-Fi without VPN
+- Use public, shared, or library computers for [MATTFAULKNER] work.
+- Disable endpoint protection or security software.
+- Store PCI data locally unless explicitly authorized in writing.
+- Share work devices with family members or anyone else.
+- Access [MATTFAULKNER] systems from public Wi-Fi without VPN.
 
 ### Onsite Work Policy
 
 When onsite work is required, contractors must:
 
-- Wear a company-issued or visitor badge at all times in secured areas
-- Follow all visitor escort procedures
-- Secure sensitive paperwork when not in use
-- Comply with all building access and physical security requirements
+- Wear a company-issued or visitor badge at all times in secured areas.
+- Follow all visitor escort procedures.
+- Secure sensitive paperwork when not in use.
+- Comply with all building access and physical security requirements.
 
 Tailgating or allowing unauthorized individuals into secured areas is strictly prohibited.
 
@@ -161,10 +149,10 @@ Tailgating or allowing unauthorized individuals into secured areas is strictly p
 
 Applies to both remote and onsite work. Contractors must:
 
-- Lock screens when stepping away from workstations, even briefly
-- Remove sensitive documents from visible areas when unattended
-- Properly shred or securely dispose of confidential printed materials
-- Secure laptops and mobile devices when not in use
+- Lock screens when stepping away from workstations, even briefly.
+- Remove sensitive documents from visible areas when unattended.
+- Properly shred or securely dispose of confidential printed materials.
+- Secure laptops and mobile devices when not in use.
 
 PCI-related information must never be left visible in public, shared, or unsecured environments.
 
@@ -178,21 +166,21 @@ PCI-related information must never be left visible in public, shared, or unsecur
 
 All contractors must:
 
-- Access only systems and data necessary for their specific job duties
-- Follow least-privilege access principles at all times
-- Immediately report suspected breaches, anomalies, or phishing attempts
-- Complete required security awareness training
-- Use only approved payment processing systems
+- Access only systems and data necessary for their specific job duties.
+- Follow least-privilege access principles at all times.
+- Immediately report suspected breaches, anomalies, or phishing attempts.
+- Complete required security awareness training.
+- Use only approved payment processing systems.
 
 ### PCI Data Restrictions
 
 Contractors working within the cardholder data environment may **never**:
 
-- Write down cardholder data unless explicitly authorized and in approved systems
-- Store card numbers in spreadsheets, personal notes, or local files
-- Send PCI data over unencrypted email, chat, or messaging tools
-- Capture full card details in screenshots or screen recordings
-- Share customer payment information with any unauthorized personnel
+- Write down cardholder data unless explicitly authorized and in approved systems.
+- Store card numbers in spreadsheets, personal notes, or local files.
+- Send PCI data over unencrypted email, chat, or messaging tools.
+- Capture full card details in screenshots or screen recordings.
+- Share customer payment information with any unauthorized personnel.
 
 ### Data Classification
 
@@ -223,12 +211,12 @@ Contractors must protect all company-issued devices from loss or theft, secure p
 
 **Contractors may not use [MATTFAULKNER] resources to:**
 
-- Access illegal or inappropriate content
-- Conduct unauthorized outside business activities
-- Download or distribute pirated software or media
-- Perform cryptocurrency mining
-- Introduce malware or malicious software
-- Bypass any security control
+- Access illegal or inappropriate content.
+- Conduct unauthorized outside business activities.
+- Download or distribute pirated software or media.
+- Perform cryptocurrency mining.
+- Introduce malware or malicious software.
+- Bypass any security control.
 
 > All activity on [MATTFAULKNER]-owned or managed systems may be monitored and logged.
 

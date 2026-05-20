@@ -9,17 +9,7 @@ nav_order: 3
 
 > Content is subject to change
 
-| **Role Type** | **Title**      | **Lowest Pay** | **Highest Pay** |
-| ---           | ---            | ---            | --- |
-| Executive     | President      | 15%/Mo/NetProfit | 25%/Mo/NetProfit |
-| Executive     | Vice-President | 10%/Mo/NetProfit | 15%/Mo/NetProfit |
-| Sales/BizDev  | Sales Manager  | Variable | Commission |
-| Sales/BizDev  | Salesperson     | Variable | Commission |
-| Support       | Account Manager | $25/Hour | $28/Hour |
-| Support       | Project Manager | Variable | Variable |
-
-
-Individual Contributor
+**Individual Contributor**
 
 | **Title** | **Unit** | **Low Pay** | **High Pay** |
 | --- | --- | --- | --- |
@@ -30,16 +20,18 @@ Individual Contributor
 | Engineer 1 | Engineering | 89k | 99k |
 | Engineer 2 | Engineering | 100k | 109k |
 | Engineer 3 | Engineering | 110k | 120k |
+| Sales Engineer | Sales | xxxx | xxxx |
 
-Leaders
+
+**Leaders**
 
 | **Role Type** | **Title** | **Low Pay** | **High Pay** |
 | --- | --- | --- | --- |
 | Manager | Support | x | x |
 | Manager | Sales | x | x |
 | Manager | Engineering | x | x |
-
-
+| Vice President | x | 10%/Mo/NetProfit | 15%/Mo/NetProfit |
+| President | x | 15%/Mo/NetProfit | 25%/Mo/NetProfit |
 
 ### Title Pool
 
