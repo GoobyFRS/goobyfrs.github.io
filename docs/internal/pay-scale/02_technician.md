@@ -6,7 +6,7 @@ parent: Pay Scale
 grand_parent: SMB Projects
 nav_order: 2
 ---
-# Assistant
+# Technician
 
 | | |
 |---|---|
