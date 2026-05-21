@@ -11,16 +11,13 @@ nav_order: 3
 
 **GoobyRSS is offline at this time.**
 
-- IPv4, IPv6, SDWAN enabled.
-- 1 vCPU Cores
-- 1 GB Memory
-- 8 GB SSD
-
 ## Monitoring
 
-None
+None at this time.
 
-start.sh
+### Setup
+
+Create a ```start.sh``` with the following content...
 
 ```bash
 docker run -d --restart unless-stopped --log-opt max-size=10m \
