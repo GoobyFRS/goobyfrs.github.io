@@ -51,6 +51,16 @@ Hosting and Managed Cloud Services. Founded 2023.
 
 **Marketing and Growth:**
 
+### Platforms
+
+| **Platform** | **Cost** |
+| --- | --- |
+| Google Workspaces | xxxx |
+| GitHub | xxxx |
+| Slack | xxxx |
+| AI Spend | xxxx |
+| HR Spend | xxxx |
+
 ### Slack
 
 - ```all-mattfaulkner```: Group Chat

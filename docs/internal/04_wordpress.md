@@ -15,7 +15,7 @@ nav_order: 4
 
 ## Plans
 
-|          | **Starter** | **Plus** | **Standard** | **Professional** | **Foundations** |
+|          | **Starter** | **Plus** | **Standard** | **Professional** | **** |
 | ---          | ---  | ---  | ---  | ---   | ---    |
 | **Price**    | $24  | $50  | $85  | $150  | $250   |
 | **Storage**  | 20GB | 50GB | 75GB | 75GB  | 150GB  |
@@ -24,7 +24,16 @@ nav_order: 4
 | **vCPU**     | 1    | 2    | 4    | 4     | 8      |
 | **Memory**   | 1GB  | 2GB  | 4GB  | 4GB   | 8GB    |
 
+| **Plan** | **Size** |
+| --- | --- |
+| Starter | Nano |
+| Plus | xxxx |
+| Standard | xxxx |
+| Professional | xxxx |
+| Foundations | xxxx |
+
 ### Add-ons
 
 - Object Storage
 - Bunny CDN
+-
