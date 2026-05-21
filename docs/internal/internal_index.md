@@ -55,8 +55,10 @@ Hosting and Managed Cloud Services. Founded 2023.
 
 | **Platform** | **Cost** |
 | --- | --- |
-| Google Workspaces | xxxx |
-| GitHub | xxxx |
+| Google Workspaces | $14/User/Month |
+| GitHub | $4/User/Month |
+| GH Copilot | $19/User/Month |
+| Tailscale | $8/User/Month |
 | Slack | xxxx |
 | AI Spend | xxxx |
 | HR Spend | xxxx |
