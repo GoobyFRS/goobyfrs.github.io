@@ -12,13 +12,17 @@ color_scheme: dark
 ### New Server Stand-Up Check List
 
 1. Update & Upgrade
+    1. x
 1. Set Timezone
+    1. x
 1. Set Hostname
+    1. x
 1. Remove snapd
     1. ```sudo apt remove snapd -y```
 1. Install packages
     1. ```sudo apt install git curl wget whois python3-full pydf speedtest-cli fail2ban```
 1. Setup New Users
+    1. x
 1. Enable Auto-Updates
     1. ```sudo dpkg-reconfigure unattended-upgrades```
 

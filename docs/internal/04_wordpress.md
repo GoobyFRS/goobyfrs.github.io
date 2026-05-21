@@ -27,4 +27,4 @@ nav_order: 4
 ### Add-ons
 
 - Object Storage
-- 
+- Bunny CDN
