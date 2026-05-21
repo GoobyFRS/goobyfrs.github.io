@@ -12,11 +12,11 @@ color_scheme: dark
 ### New Server Stand-Up Check List
 
 1. Update & Upgrade
-    1. x
+    1. ```sudo apt update && sudo apt upgrade -y```
 1. Set Timezone
-    1. x
+    1. ```sudo timedatectl set-timezone America/Denver```
 1. Set Hostname
-    1. x
+    1. ```sudo hostnamectl set-hostname <hostname>```
 1. Remove snapd
     1. ```sudo apt remove snapd -y```
 1. Install packages
