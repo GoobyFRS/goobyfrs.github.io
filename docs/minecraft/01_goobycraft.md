@@ -6,3 +6,13 @@ parent: Minecraft
 nav_order: 1
 ---
 # GoobyCraft
+
+lore
+
+season
+
+tweaks
+
+rules
+
+how to join
