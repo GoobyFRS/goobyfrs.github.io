@@ -23,9 +23,9 @@ nav_order: 0
 - Remote & Onsite Technical Support
 - Incident Response
 
-**R&D:**
+**R&D:** Stale
 
-**Marketing & Growth:**
+**Marketing & Growth:** Stale
 
 
 ## GR Host
@@ -47,9 +47,9 @@ Hosting and Managed Cloud Services. Founded 2023.
 - CDN Solutions
 - Domain Management Solutions
 
-**R&D:**
+**R&D:** Stale
 
-**Marketing and Growth:**
+**Marketing and Growth:** Stale
 
 ### Platforms
 
@@ -59,6 +59,7 @@ Hosting and Managed Cloud Services. Founded 2023.
 | GitHub | $4/User/Month |
 | GH Copilot | $19/User/Month |
 | Tailscale | $8/User/Month |
+| MobaXterm | $69/User/Year |
 | Slack | xxxx |
 | AI Spend | xxxx |
 | HR Spend | xxxx |
