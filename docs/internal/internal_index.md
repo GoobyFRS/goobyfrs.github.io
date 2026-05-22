@@ -23,9 +23,9 @@ nav_order: 0
 - Remote & Onsite Technical Support
 - Incident Response
 
-**R&D:**
+**R&D:** Stale
 
-**Marketing & Growth:**
+**Marketing & Growth:** Stale
 
 
 ## GR Host
@@ -47,9 +47,9 @@ Hosting and Managed Cloud Services. Founded 2023.
 - CDN Solutions
 - Domain Management Solutions
 
-**R&D:**
+**R&D:** Stale
 
-**Marketing and Growth:**
+**Marketing and Growth:** Stale
 
 ### Platforms
 
