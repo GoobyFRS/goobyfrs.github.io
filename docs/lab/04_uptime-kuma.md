@@ -41,9 +41,3 @@ nav_order: 4
 #### Alerting Workflow
 
 Alert -> GR_Core API -> Ticket Submitted -> Chat Webhook Sent
-
-## New Relic Monitoring
-
-## NR Agent
-
-#### Alerting Workflow
