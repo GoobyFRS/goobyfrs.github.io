@@ -60,6 +60,7 @@ Hosting and Managed Cloud Services. Founded 2023.
 | GH Copilot | $19/User/Month |
 | Tailscale | $8/User/Month |
 | MobaXterm | $69/User/Year |
+| Atlassian | $xx/User/Month |
 | Slack | xxxx |
 | AI Spend | xxxx |
 | HR Spend | xxxx |
