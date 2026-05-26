@@ -15,25 +15,24 @@ nav_order: 4
 
 ## Plan Details
 
-|          | **Starter** | **Plus** | **Standard** | **Professional** | **** |
+|          | **GR-1** | **GR Silver** | **GR Gold** | **Platinum** | **Foundations** |
 | ---          | ---  | ---  | ---  | ---   | ---    |
-| **Price**    | $24  | $50  | $85  | $150  | $250   |
+| **Price**    | $20  | $40  | $85  | $150  | $250   |
 | **Storage**  | 20GB | 50GB | 75GB | 75GB  | 150GB  |
 | **Transfer** | 1TB  | 2TB  | 3TB  | 4TB   | 5TB    |
-| **Free CDN** | 10GB | 20GB | 30GB | 50GB  | 100GB  |
 | **vCPU**     | 1    | 2    | 4    | 4     | 8      |
 | **Memory**   | 1GB  | 2GB  | 4GB  | 4GB   | 8GB    |
+| **Visitors**           | ~35k/Mo  | ~120k/Mo | ~200k/Mo | ~300k/Mo | ~750k/Mo |
+| **Object Storage**     | Optional | Optional | Optional | 250GB    | 250GB    |
+| **Website SLA**        | 99%      | 99.5%    | 99.9%    | 99.95%   | 99.99%   |
+| **eCommerce Ready**    | No       | No       | Yes      | Yes      | Yes      |
+| **Advanced Analytics** | No       | No       | Yes      | Yes      | Yes      |
+| **Instance**           | Standard | Standard | Standard | Premium  | Premium  |
+| **Account Manager**    | No       | No       | No       | Yes      | Yes      |
+
 
 {: .warning }
 Transfer overages are rare, but will result in an additional charge at a static rate of $12/TB.
-
-| **Plan** | **Size** |
-| --- | --- |
-| Starter | Nano |
-| Plus | xxxx |
-| Standard | xxxx |
-| Professional | xxxx |
-| Foundations | xxxx |
 
 ### Add-ons
 
