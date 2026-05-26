@@ -37,3 +37,7 @@ Submit a ticket at ```https://support.mattfaulkner.net```
 
 - Request Access.
 - Follow Welcome Email instructions.
+
+{: .warning }
+Not accepting any new users in 2026.
+
