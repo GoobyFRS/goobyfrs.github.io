@@ -22,7 +22,7 @@ In this section, you will find information about my home lab, including the serv
 1. Install packages
     1. ```sudo apt install git curl wget whois python3-full pydf speedtest-cli fail2ban```
 1. Setup New Users
-    1. x
+    1. ```sudo useradd. -m <username>```
 1. Enable Auto-Updates
     1. ```sudo dpkg-reconfigure unattended-upgrades```
 

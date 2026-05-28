@@ -11,6 +11,8 @@ color_scheme: dark
 
 [MultiMC](https://multimc.org/) - Multi-Platform launcher
 
+[Corretto](https://aws.amazon.com/corretto/) - Preferred Linux JRE
+
 [Ninite](https://ninite.com/) - Easy Windows Java Source
 
 [Seed Map](https://www.chunkbase.com/apps/seed-map)
@@ -30,6 +32,5 @@ color_scheme: dark
 - ```community```: Group Chat
 - ```birdhousemc```: Minecraft Server Cross Chat
 - ```bot-spam```: Tatsu Bot Channel
-- ```memes-n-nsfw```: Memes and NSFW content MUST go here.
-- ```gaming```: Chat anything about games!
+- ```memes-n-nsfw```: NSFW content MUST go here.
 - ```tech-alerts```: Private Channel
