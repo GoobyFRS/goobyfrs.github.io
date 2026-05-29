@@ -4,7 +4,7 @@ title: BYOD Policy
 nav_enabled: false
 parent: Handbook
 grand_parent: SMB Project
-nav_order: 5
+nav_order: 1
 ---
 # Bring Your Own Device (BYOD) Policy
 

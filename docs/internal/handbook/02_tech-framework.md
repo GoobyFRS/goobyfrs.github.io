@@ -4,7 +4,7 @@ title: Technician Discipline & Skills Matrix
 nav_enabled: false
 parent: Handbook
 grand_parent: SMB Project
-nav_order: 10
+nav_order: 2
 ---
 
 # Technician Discipline & Skills Matrix
