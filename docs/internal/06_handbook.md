@@ -7,27 +7,6 @@ nav_order: 6
 ---
 
 # [MATTFAULKNER] Employee Handbook
-{: .no_toc }
-
-**PCI Data Security Edition**
-{: .label .label-blue }
-
-| | |
-|---|---|
-| **Version** | 1.1 |
-| **Effective Date** | May 30 2026 |
-| **Entity** | [MATTFAULKNER] |
-
-> This handbook is not a contract of employment and may be updated at any time. Employees will be notified of material changes.
-
-<details open markdown="block">
-  <summary>Table of Contents</summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
----
 
 ## Welcome
 
@@ -36,8 +15,6 @@ Welcome to [MATTFAULKNER].
 This handbook establishes the expectations, policies, and security standards that apply to all employees across [MATTFAULKNER] business units. Please read it carefully and refer to it whenever you have questions about workplace expectations or company policy.
 
 Because employees may encounter payment card data or systems connected to payment processing, maintaining PCI-DSS compliance and strong cybersecurity practices is a **core responsibility** for all staff.
-
----
 
 ## People & Conduct
 
@@ -340,8 +317,6 @@ Report all incidents to [MATTFAULKNER] via:
 
 Do not attempt to investigate, remediate, or contain a suspected breach independently without direction from [MATTFAULKNER].
 
----
-
 ## Operations
 
 ### Attendance
@@ -369,8 +344,6 @@ Eligible employees may receive the following leave types:
 - Military Leave
 
 Leave eligibility varies by classification. Employees should follow [MATTFAULKNER] procedures for requesting leave and provide advance notice whenever possible.
-
----
 
 ## Disciplinary Action & Separation
 

@@ -48,7 +48,7 @@ iptables-save > /etc/iptables/rules.v4
 [Invite Link](ge6necsyxR)
 
 - ```welcome```: Welcome Info and Rules
-- ```announcements```:
+- ```announcements```: Community Announcements
 - ```community```: Group Chat
 - ```birdhousemc```: Minecraft Server Cross Chat
 - ```bot-spam```: Tatsu Bot Channel
