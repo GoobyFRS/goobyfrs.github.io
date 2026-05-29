@@ -23,6 +23,15 @@ color_scheme: dark
 
 [Aikars Flags](https://docs.papermc.io/paper/aikars-flags/) - Start Up Flags Comments
 
+## Technical Notes
+
+- Minecraft ≥ 26.1 and above requires Java 25.
+- Minecraft ≥ 1.20.5 and 1.21.11 requires Java 21.
+- Minecraft ≥ 1.18 requires Java 17.
+- Minecraft ≥ 1.12 requires Java 8.
+
+Older versions of Minecraft can run on newer Java, for example, Minecraft 1.16 can run on Java 17, Minecraft 1.18 can run on Java 20, etc. 
+
 ## Discord
 
 [Invite Link](ge6necsyxR)
