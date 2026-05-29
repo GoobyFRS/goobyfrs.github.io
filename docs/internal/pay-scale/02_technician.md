@@ -27,6 +27,24 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 
 ### Core Duties
 
+**Technician 1:**
+
+- Deploy new Client Services using Terraform.
+- Process Client Services Upgrades.
+- Configure Client Services Monitoring.
+
+**Technician 2:**
+
+- Process Client Services Downgrades.
+- Process Firewall Change Requests.
+- Troubleshoot deployment upgrade/downgrade failures.
+
+**Technician 3:**
+
+- Independently diagnose and resolve complex infrastructure issues impacting customer services.
+- Perform advanced performance tuning and optimization of customer server environments.
+- Lead the development and implementation of new Terraform scripts and automation workflows.
+
 - Respond to emails, messages, and customer inquiries in a professional manner.
 - Support basic customer service and client communication activities.
 - Help manage Slack/Discord servers, ticket systems, or internal communication platforms.
