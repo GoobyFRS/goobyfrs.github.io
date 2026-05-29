@@ -5,25 +5,37 @@ nav_enabled: true
 parent: SMB Projects
 nav_order: 6
 ---
-# Employee Handbook
+
+# [MATTFAULKNER] Employee Handbook
+{: .no_toc }
+
+**PCI Data Security Edition**
+{: .label .label-blue }
 
 | | |
 |---|---|
-| **Version** | 1.0 |
-| **Effective Date** | [Insert Date] |
+| **Version** | 1.1 |
+| **Effective Date** | May 30 2026 |
 | **Entity** | [MATTFAULKNER] |
 
-> This handbook is not a contract of employment and does not create an employment relationship. It may be updated at any time. Contractors will be notified of material changes.
+> This handbook is not a contract of employment and may be updated at any time. Employees will be notified of material changes.
 
+<details open markdown="block">
+  <summary>Table of Contents</summary>
+  {: .text-delta }
+- TOC
 {:toc}
+</details>
+
+---
 
 ## Welcome
 
 Welcome to [MATTFAULKNER].
 
-This handbook establishes expectations, policies, and security standards for all contractors and engaged workers across [MATTFAULKNER] business units.
+This handbook establishes the expectations, policies, and security standards that apply to all employees across [MATTFAULKNER] business units. Please read it carefully and refer to it whenever you have questions about workplace expectations or company policy.
 
-Because contractors may encounter payment card data or systems connected to payment processing, maintaining PCI-DSS compliance and strong cybersecurity practices is a **core responsibility** for all engaged workers.
+Because employees may encounter payment card data or systems connected to payment processing, maintaining PCI-DSS compliance and strong cybersecurity practices is a **core responsibility** for all staff.
 
 ---
 
@@ -31,85 +43,116 @@ Because contractors may encounter payment card data or systems connected to paym
 
 ### Equal Employment Opportunity
 
-[MATTFAULKNER] provides equal opportunity to all contractors and applicants regardless of race, religion, color, sex, gender identity, sexual orientation, national origin, age, disability, veteran status, or any other protected status under applicable law.
+[MATTFAULKNER] provides equal employment opportunities to all employees and applicants regardless of race, religion, color, sex, gender identity, sexual orientation, national origin, age, disability, veteran status, or any other protected status under applicable law.
 
-Harassment, discrimination, retaliation, or hostile conduct will not be tolerated.
+Harassment, discrimination, retaliation, or hostile conduct of any kind will not be tolerated.
 
-### Engagement Classifications
+### Employment Classifications
 
-Contractors engaged by [MATTFAULKNER] may be classified as:
+Employees at [MATTFAULKNER] are classified as follows:
 
 | Classification | Description |
 |---|---|
-| **Independent Contractor** | Project-based or retainer engagement; not an employee |
-| **Part-time Contractor** | Recurring engagement below full-time hours |
-| **Temporary** | Fixed-duration engagement |
+| **Full-Time** | 40 hours/week; eligible for full benefits package |
+| **Part-Time** | Regularly scheduled below 40 hours/week; benefits eligibility varies |
+| **Seasonal** | Fixed-duration employment tied to a specific season or business period; limited benefits |
+| **Contractor** | Independent engagement; not an employee; compensated per individual agreement |
 
-Scope of work, deliverables, and scheduling are defined per engagement agreement. This handbook applies to all classifications unless otherwise noted.
+Benefits, leave eligibility, and scheduling requirements vary by classification and are detailed in the Compensation & Benefits section. This handbook applies to all classifications unless a section explicitly states otherwise.
 
 ### Workplace Conduct
 
-All engaged contractors are expected to:
+All employees are expected to:
 
-- Behave professionally and respectfully in all interactions
-- Protect company and customer information
-- Follow cybersecurity and PCI compliance policies
-- Use company systems responsibly and only for authorized purposes
-- Report suspicious or unsafe behavior
-- Maintain confidentiality of all business information
+- Behave professionally and respectfully in all interactions.
+- Protect company and customer information.
+- Follow all cybersecurity and PCI compliance policies.
+- Use company systems responsibly and only for authorized purposes.
+- Report suspicious or unsafe behavior promptly.
+- Follow management instructions and guidelines.
+- Maintain confidentiality of all business information.
 
-**Prohibited conduct includes:**
+**The following conduct is strictly prohibited:**
 
-- Unauthorized access to systems or data
-- Sharing passwords or MFA tokens
-- Installing unauthorized software on company systems
-- Downloading illegal or malicious content
-- Harassment or threats toward any person
-- Theft or misuse of company property
-- Circumventing security controls
-- Storing PCI data outside approved systems
+- Unauthorized access to systems or data.
+- Sharing passwords or MFA tokens with anyone.
+- Installing unauthorized software on company systems.
+- Downloading illegal or malicious content.
+- Harassment or threats toward any person.
+- Theft or misuse of company property.
+- Circumventing security controls.
+- Storing PCI data outside approved systems.
 
-Violations may result in immediate contract termination and, where applicable, legal action.
+Violations may result in disciplinary action up to and including termination.
 
 ### Conflicts of Interest
 
-Contractors must disclose any situation that could create a conflict of interest, including:
+All employees must disclose any situation that could create a conflict of interest, including:
 
-- Financial interest in client organizations
-- Personal relationships with clients or competitors
-- Concurrent work for direct competitors during an active engagement
-- Board positions or advisory roles involving competing interests
+- Financial interest in client organizations.
+- Personal relationships with clients or competitors.
+- Outside employment or consulting work.
+- Board positions or advisory roles involving competing interests.
+- Any situation that could create the appearance of a conflict.
 
-**Contractors may not:**
+**Employees may not:**
 
-- Use [MATTFAULKNER] resources or information for personal gain
-- Accept gifts valued over $100 from clients or vendors without prior disclosure
-- Share [MATTFAULKNER] confidential information with outside parties
-- Use their position to influence business decisions for personal benefit
+- Use [MATTFAULKNER] resources or information for personal gain.
+- Accept gifts valued over $100 from clients or vendors without prior disclosure.
+- Perform unauthorized work for competitors.
+- Share [MATTFAULKNER] confidential information with outside parties.
+- Use their position to influence business decisions for personal benefit.
 
 ---
 
-## Compensation & Scheduling
-
-> As independent contractors, engaged workers are not employees and are generally not entitled to employee benefits such as health insurance, PTO accrual, or retirement plans. Compensation terms, payment schedules, and any applicable allowances are defined in each individual engagement agreement.
+## Compensation & Benefits
 
 ### Compensation
 
-Contractors are compensated per the terms of their engagement agreement. Invoicing instructions and preferred payment methods will be provided at onboarding. Rate reviews may occur at contract renewal. Work outside the agreed scope must be pre-approved.
+Employees are paid on a **bi-weekly** basis. Direct deposit is available and encouraged. Pay rates are reviewed annually based on performance and company growth.
 
-### Scheduling and Availability
+Contractors are compensated per the terms of their individual engagement agreement. Invoicing instructions and payment schedules will be established at the start of each engagement.
 
-Standard core availability hours are **Monday through Friday, 9:00 AM to 5:00 PM** local time, unless the engagement agreement specifies otherwise. Some engagements may require flexible hours or on-call availability windows.
+Overtime and work outside the agreed scope must be **pre-approved** by management.
+
+### Benefits Eligibility
+
+Benefits eligibility varies by employment classification:
+
+| Benefit                  | Full-Time | Part-Time | Seasonal | Contractor |
+|---|---|---|---|---|
+| Health Insurance         | ✓ | Varies | — | — |
+| Paid Time Off (PTO)      | ✓ | Varies | — | — |
+| 401(k)                   | ✓ | Varies | — | — |
+| Professional Development | ✓ | ✓      | — | — |
+
+Health insurance is effective the first of the month following 60 days of employment for eligible employees.
+
+### Paid Time Off (PTO)
+
+Full-time employees accrue PTO based on length of service:
+
+| Tenure | PTO Accrual |
+|---|---|
+| 0–2 years | 12 days per year |
+| 3–5 years | 18 days per year |
+| 6+ years | 24 days per year |
+
+PTO requests should be submitted at least one week in advance when possible. Part-time and seasonal PTO eligibility will be defined at hire.
+
+### Scheduling and Work Hours
+
+Standard business hours are **Monday through Friday, 9:00 AM to 5:00 PM**. Some positions may require different schedules or on-call availability. Specific scheduling requirements will be communicated at hire or as business needs change.
 
 ### Performance Expectations
 
-Contractors are expected to:
+All employees are expected to:
 
-- Maintain current knowledge of technologies relevant to the engagement.
-- Complete any required training or certifications as specified.
-- Document work thoroughly in agreed-upon systems.
-- Respond promptly to requests during agreed availability hours.
-- Escalate blockers or issues proactively.
+- Maintain current knowledge of technologies and practices relevant to their role.
+- Complete required training and certifications as assigned.
+- Document work thoroughly in company-approved systems.
+- Respond promptly and professionally to requests.
+- Escalate issues and blockers proactively.
 
 ---
 
@@ -117,16 +160,17 @@ Contractors are expected to:
 
 ### Remote Work Policy
 
-Remote work is the default for most [MATTFAULKNER] engagements. Remote contractors must:
+Remote work is permitted with management approval. Employees approved for remote work must:
 
 - Maintain a dedicated, private workspace where sensitive information cannot be viewed by others.
-- Ensure a reliable high-speed internet connection throughout the engagement.
-- Be available and responsive during agreed core hours.
+- Ensure a reliable high-speed internet connection.
+- Be available and responsive during core business hours.
+- Attend virtual meetings as required.
 - Use company-approved VPN and security tools at all times when accessing [MATTFAULKNER] systems.
 - Lock devices when stepping away, even briefly.
 - Use only approved communication platforms for business purposes.
 
-**Remote contractors may not:**
+**Remote employees may not:**
 
 - Use public, shared, or library computers for [MATTFAULKNER] work.
 - Disable endpoint protection or security software.
@@ -136,18 +180,19 @@ Remote work is the default for most [MATTFAULKNER] engagements. Remote contracto
 
 ### Onsite Work Policy
 
-When onsite work is required, contractors must:
+Employees working onsite must:
 
-- Wear a company-issued or visitor badge at all times in secured areas.
+- Wear a company-issued badge at all times in secured areas.
 - Follow all visitor escort procedures.
 - Secure sensitive paperwork when not in use.
+- Keep workspaces clean and organized.
 - Comply with all building access and physical security requirements.
 
 Tailgating or allowing unauthorized individuals into secured areas is strictly prohibited.
 
 ### Clean Desk and Screen Policy
 
-Applies to both remote and onsite work. Contractors must:
+This policy applies to both remote and onsite employees. All employees must:
 
 - Lock screens when stepping away from workstations, even briefly.
 - Remove sensitive documents from visible areas when unattended.
@@ -160,21 +205,22 @@ PCI-related information must never be left visible in public, shared, or unsecur
 
 ## Information Security & PCI Compliance
 
-> Any contractor who handles payment card information, or has access to systems connected to payment processing, is subject to PCI-DSS requirements. Non-compliance may result in immediate contract termination.
+> Any employee who handles payment card information, or has access to systems connected to payment processing, is subject to PCI-DSS requirements. Non-compliance may result in disciplinary action up to and including immediate termination.
 
 ### General Security Requirements
 
-All contractors must:
+All employees must:
 
 - Access only systems and data necessary for their specific job duties.
 - Follow least-privilege access principles at all times.
 - Immediately report suspected breaches, anomalies, or phishing attempts.
 - Complete required security awareness training.
 - Use only approved payment processing systems.
+- Protect customer payment information at all times.
 
 ### PCI Data Restrictions
 
-Contractors working within the cardholder data environment may **never**:
+Employees working within the cardholder data environment may **never**:
 
 - Write down cardholder data unless explicitly authorized and in approved systems.
 - Store card numbers in spreadsheets, personal notes, or local files.
@@ -188,28 +234,40 @@ Contractors working within the cardholder data environment may **never**:
 |---|---|---|
 | **Public** | Marketing materials, published docs | No restrictions |
 | **Internal** | Procedures, org info | Internal channels only |
-| **Confidential** | Client data, business strategy | Encrypted storage, need-to-know |
-| **Restricted** | PCI/cardholder data, credentials | Approved systems only |
+| **Confidential** | Client data, business strategy | Encrypted storage, need-to-know access |
+| **Restricted** | PCI/cardholder data, credentials | Approved systems only; strict controls |
 
-PCI data is always **Restricted**.
+PCI data is always classified as **Restricted**.
 
-Contractors must store data only in approved locations, use encryption where required, and dispose of sensitive data securely. Sensitive documents must never be discarded in regular trash.
+Employees must store data only in approved locations, use encryption where required, and dispose of sensitive data securely. Sensitive documents must never be discarded in regular trash or recycling.
 
 ### Email and Communication Security
 
-Contractors must use [MATTFAULKNER]-approved communication tools for all business operations involving sensitive information. Contractors must not send sensitive data through personal email, click suspicious links, or share confidential data in public channels. Suspected phishing must be reported immediately.
+Employees must use [MATTFAULKNER]-approved communication tools for all business operations involving sensitive information.
+
+Employees must not:
+
+- Send sensitive, confidential, or PCI data through personal email accounts.
+- Click suspicious links or open unexpected attachments.
+- Share confidential data in public channels or group chats.
+
+All suspected phishing attempts or suspicious messages must be reported immediately.
 
 ### Physical Security
 
-Contractors must protect all company-issued devices from loss or theft, secure physical workspaces, and never leave devices containing company information unattended in vehicles or public places.
+Employees must:
+
+- Protect all company-issued devices from loss, theft, or unauthorized access.
+- Secure offices, workspaces, and any physical documents containing sensitive information.
+- Never leave devices containing company information unattended in vehicles, hotels, or public places.
 
 ---
 
 ## Acceptable Use Policy
 
-[MATTFAULKNER] systems and networks are provided for authorized business use. Limited personal use is permitted if it does not interfere with work, violate policy, or introduce security risks.
+[MATTFAULKNER] systems and networks are provided for authorized business use. Limited personal use is permitted if it does not interfere with work duties, violate company policy, or introduce security risks.
 
-**Contractors may not use [MATTFAULKNER] resources to:**
+**Employees may not use [MATTFAULKNER] resources to:**
 
 - Access illegal or inappropriate content.
 - Conduct unauthorized outside business activities.
@@ -229,27 +287,40 @@ Contractors must protect all company-issued devices from loss or theft, secure p
 | **Reuse** | Prohibited across systems |
 | **Sharing** | Strictly prohibited |
 
-Contractors must enable MFA wherever available, use approved password managers when provided, and never share passwords or authentication tokens. Suspected account compromise must be reported immediately.
+Employees must enable MFA wherever available, use approved password managers when provided, and never share passwords or authentication tokens. Suspected account compromise must be reported immediately.
 
 ### Device and Endpoint Security
 
-All [MATTFAULKNER]-issued devices must run approved anti-malware software, maintain current OS updates, use full-disk encryption, and be protected with screen locks.
+All [MATTFAULKNER]-issued devices must:
 
-Contractors may not disable security software, jailbreak or root any device used for company work, or connect unauthorized USB storage to company systems.
+- Run approved, current anti-malware software.
+- Maintain current operating system and application updates.
+- Use full-disk encryption where supported.
+- Be protected with screen locks.
+
+Employees may not disable security software, jailbreak or root any device used for company work, or connect unauthorized USB storage to company systems.
 
 Personally owned devices used for [MATTFAULKNER] work must meet the same security requirements as company-issued devices.
 
 ### VPN and Secure Remote Access
 
-All remote access to [MATTFAULKNER] systems must occur through an approved secure access solution (VPN, ZTNA, or SD-WAN). Contractors must not expose internal services to the internet, use unauthorized remote desktop software, or bypass network security controls. All remote access sessions may be logged and monitored.
+All remote access to [MATTFAULKNER] systems must occur through an approved secure access solution (VPN, ZTNA, or SD-WAN).
+
+Employees must not:
+
+- Expose internal [MATTFAULKNER] services directly to the internet.
+- Use unauthorized remote desktop software to access company systems.
+- Bypass network security controls under any circumstance.
+
+All remote access sessions may be logged and monitored.
 
 ---
 
 ## Incident Reporting
 
-Contractors must **immediately** report any of the following:
+All employees must **immediately** report any of the following:
 
-- Lost or stolen devices
+- Lost or stolen devices (company-issued or personal devices used for work)
 - Suspected malware infections or unusual system behavior
 - Unauthorized access attempts to any system or account
 - Phishing emails or social engineering attempts (whether acted on or not)
@@ -267,23 +338,37 @@ Report all incidents to [MATTFAULKNER] via:
 | **Email:** [Insert Security Contact Email] | Written incident documentation |
 | **Emergency:** [Insert Emergency Contact] | Active breaches or device theft |
 
-Do not attempt to investigate or contain a breach independently without direction from [MATTFAULKNER].
+Do not attempt to investigate, remediate, or contain a suspected breach independently without direction from [MATTFAULKNER].
 
 ---
 
 ## Operations
 
-### Attendance and Availability
+### Attendance
 
-Contractors are expected to honor the availability windows defined in their engagement agreement, notify [MATTFAULKNER] promptly of any unplanned unavailability, and attend required meetings or training sessions. Repeated availability issues may result in contract review or termination.
+Employees are expected to:
+
+- Maintain their scheduled working hours
+- Notify their supervisor promptly of any unplanned absences
+- Attend required meetings and training sessions
+
+Repeated or unaddressed attendance issues may result in disciplinary action.
 
 ### Timekeeping
 
-For hour-tracked engagements, contractors must accurately record all hours worked per the agreed invoicing method. Falsification of time records is prohibited and grounds for immediate termination. Work outside the agreed scope must be pre-approved.
+Non-exempt employees must accurately record all hours worked. Falsification of time records is prohibited and grounds for immediate termination. Overtime must be approved in advance by management.
 
-### Leave and Unavailability
+### Leave and Time Off
 
-Contractors are not employees and are not entitled to paid leave unless explicitly included in the engagement agreement. For planned absences, provide at least one week's notice where possible and ensure no work items are left in a blocked state. Any unavailability affecting deliverables or SLAs must be agreed upon in writing.
+Eligible employees may receive the following leave types:
+
+- Paid Time Off (PTO)
+- Sick Leave
+- Bereavement Leave
+- Jury Duty Leave
+- Military Leave
+
+Leave eligibility varies by classification. Employees should follow [MATTFAULKNER] procedures for requesting leave and provide advance notice whenever possible.
 
 ---
 
@@ -295,31 +380,30 @@ Policy violations may result in the following, depending on severity:
 
 | Step | Action |
 |---|---|
-| 1 | Verbal or written notice |
-| 2 | Written warning with corrective expectations |
-| 3 | Suspension of system access pending review |
-| 4 | Contract termination |
+| 1 | Verbal warning |
+| 2 | Written warning with documented corrective expectations |
+| 3 | Suspension or revocation of system access pending review |
+| 4 | Termination |
 
-Severe violations — security breaches, PCI non-compliance, data theft, or falsification of records — may result in **immediate contract termination** without prior warning steps.
+Severe violations — including security breaches, PCI non-compliance, data theft, harassment, or falsification of records — may result in **immediate termination** without prior warning steps.
 
-### Separation of Engagement
+### Separation of Employment
 
-Upon end of engagement, contractors must:
+Upon separation from [MATTFAULKNER], employees must:
 
-- Return all [MATTFAULKNER]-issued equipment, devices, and physical materials
-- Surrender all credentials, API keys, badges, and system access immediately
-- Cease accessing [MATTFAULKNER] systems, data, and communications
-- Delete or return any [MATTFAULKNER] confidential data stored locally
-- Submit a final invoice per engagement agreement terms
+- Return all company-issued equipment, devices, and physical materials
+- Surrender all credentials, access badges, tokens, and keys
+- Cease accessing [MATTFAULKNER] systems, data, and communications immediately
+- Delete or return any [MATTFAULKNER] confidential data stored on personal devices
 
-[MATTFAULKNER] reserves the right to revoke system access at any time without prior notice. Confidentiality obligations survive the end of engagement.
+[MATTFAULKNER] reserves the right to revoke system access at any time without prior notice. Confidentiality obligations survive the end of employment.
 
 ---
 
-## Contractor Acknowledgment
+## Employee Acknowledgment
 
-By engaging with [MATTFAULKNER], contractors acknowledge the following:
+By signing below, I acknowledge that I have received, read, and understood the [MATTFAULKNER] Employee Handbook.
 
-> I have received, read, and understood the [MATTFAULKNER] Contractor Handbook. I understand that compliance with all policies in this handbook — including information security, PCI-DSS requirements, acceptable use, and conduct standards — is a condition of my engagement. I understand this handbook is not a contract of employment, does not create an employment relationship, and may be updated at any time with reasonable notice.
+> I understand that compliance with all policies in this handbook — including information security, PCI-DSS requirements, acceptable use, and conduct standards — is a **condition of my employment or engagement**. I understand this handbook is not a contract of employment and may be updated at any time with reasonable notice.
 
-*Return a signed copy to [MATTFAULKNER] prior to beginning work.*
+*Return a signed copy to [MATTFAULKNER] prior to your first day.*
