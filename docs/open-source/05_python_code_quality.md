@@ -8,7 +8,7 @@ nav_order: 5
 # Python3 Standards & Style Guide
 
 ## Language Preference
-- **Primary language**: Python 3 (use when possible)
+- **Primary language**: Python 3
 - **Compliance**: PEP8 compliant
 
 ## Naming Conventions

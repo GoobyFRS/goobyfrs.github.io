@@ -2,19 +2,16 @@
 layout: minimal
 title: Technician Discipline & Skills Matrix
 nav_enabled: false
-parent: Pay Scale
+parent: Handbook
 grand_parent: SMB Project
 nav_order: 10
 ---
 
 # Technician Discipline & Skills Matrix
-{: .no_toc }
 
 ## Discipline Definition
 
 Network and IT Technicians at [MATTFAULKNER] support infrastructure operations across client environments, with a focus on reliability, security, and excellent service delivery. Responsibilities span data circuit management, network switch health and port configuration, incident response, WiFi troubleshooting, and ongoing documentation and process improvement. Technicians are expected to grow their technical depth, operate with increasing autonomy, and contribute to the operational maturity of the team over time.
-
----
 
 ## Level Overview
 
@@ -39,7 +36,6 @@ Network and IT Technicians at [MATTFAULKNER] support infrastructure operations a
 | **Security Practices**   | Understands importance of security standards and data protection requirements; adheres to PCI and company policy | Implements appropriate security controls; mentors peers on security best practices and company-specific standards | Proactively identifies security risks and formulates and implements solutions; escalates to leadership as appropriate | Provides guidance and mentorship on security patterns; ensures team-wide adherence to security and compliance requirements |
 | **Documentation**        | Documents work in assigned systems following provided templates | Recognizes gaps in documentation and provides solutions to close them | Produces and maintains high-quality runbooks, SOPs, and incident playbooks | Drives documentation standards across the team; ensures knowledge base is current and complete |
 
----
 
 ### Business Acumen
 
@@ -48,8 +44,6 @@ Network and IT Technicians at [MATTFAULKNER] support infrastructure operations a
 | **Business Understanding** | Demonstrates general understanding of own area and curiosity about broader business problems | Demonstrates understanding of how operations impact upstream and downstream workflows and client relationships | Understands the technical needs of the business and how they relate to operational decisions; track record of actionable recommendations | Understands the relationship between technology and business outcomes; creates strategies to help clients and [MATTFAULKNER] operate more effectively |
 | **Client Awareness**       | Understands that work directly impacts client experience and behaves accordingly | Understands client SLAs and the business impact of incidents and outages | Anticipates client needs and proactively communicates risks or dependencies | Identifies and investigates client needs and priorities to ensure the correct problems are being solved |
 
----
-
 ### Effective Communication & Collaboration
 
 | Capability | Technician I | Technician II | Technician III | Senior Technician |
@@ -57,8 +51,6 @@ Network and IT Technicians at [MATTFAULKNER] support infrastructure operations a
 | **Communication**    | Communicates clearly and concisely in written and verbal formats; uses approved communication tools | Communicates complex information clearly to diverse audiences; organizes updates to drive action | Proactively shares status, scope, dependencies, and decisions with relevant stakeholders in a timely manner | Demonstrates high self-awareness; tailors communication style to audience to achieve desired outcomes |
 | **Collaboration**    | Listens effectively, asks good questions, and shares information with team | Collaborates across teams to identify and implement solutions | Collaborates across teams on technical solutions; manages group dynamics effectively | Drives cross-functional collaboration; ensures the right people with the right expertise are involved |
 | **Tool Proficiency** | Uses current communication and ticketing tools (e.g., email, Slack, ticketing system) | Contributes to improvement of communication tools and workflows | Recommends improvements to communication and documentation tools | Champions adoption of communication and collaboration tools across the broader team |
-
----
 
 ### Work Management
 
@@ -71,8 +63,6 @@ Network and IT Technicians at [MATTFAULKNER] support infrastructure operations a
 | **Project Management**  | N/A | Understands project management best practices | Applies project management principles effectively | Applies project management principles to deliver work on schedule, within scope and budget |
 | **Schedule Adherence**  | Adheres to scheduled work times | Adheres to scheduled work times | Adheres to scheduled work times | Adheres to scheduled work times; provides schedule recommendations based on team needs |
 
----
-
 ### Network Operations (Domain-Specific)
 
 | Capability | Technician I | Technician II | Technician III | Senior Technician |
@@ -82,8 +72,6 @@ Network and IT Technicians at [MATTFAULKNER] support infrastructure operations a
 | **Incident Response**           | Responds to assigned incidents following documented playbooks | Responds to and resolves incidents; documents findings and follows escalation paths | Leads incident response for complex issues; produces post-incident documentation | Leads and improves incident response processes; defines escalation paths and playbook standards |
 | **WiFi Troubleshooting**        | Performs basic WiFi diagnostics (signal strength, channel, SSID) with guidance | Independently diagnoses and resolves WiFi complaints; documents findings | Performs advanced wireless troubleshooting including RF analysis and AP configuration review | Evaluates wireless environment holistically; recommends design or configuration improvements |
 | **Monitoring & Alerting**       | Understands monitoring dashboards; escalates alerts per documented procedures | Responds to monitoring alerts; triages and routes appropriately | Tunes monitoring thresholds and contributes to alert logic improvements | Defines monitoring strategy; ensures coverage across all critical systems and circuits |
-
----
 
 ## Qualifications
 

@@ -1,8 +1,9 @@
 ---
 layout: minimal
 title: BYOD Policy
-nav_enabled: true
-parent: SMB Projects
+nav_enabled: false
+parent: Handbook
+grand_parent: SMB Project
 nav_order: 5
 ---
 # Bring Your Own Device (BYOD) Policy
@@ -30,8 +31,6 @@ Covered device types include:
 - macOS devices
 - Linux workstations
 - Mobile phones and tablets
-
----
 
 ## Approved Remote Access Methods
 
@@ -100,8 +99,6 @@ Devices must also:
 - Automatically lock after a period of inactivity
 - Not be shared with unauthorized individuals while connected to company systems
 
----
-
 ## Acceptable Use
 
 Users agree to:
@@ -118,8 +115,6 @@ Users must not:
 - Share company credentials
 - Store sensitive company data on unencrypted removable media
 
----
-
 ## Monitoring and Privacy
 
 The company respects employee privacy regarding personal devices. However:
@@ -130,8 +125,6 @@ The company respects employee privacy regarding personal devices. However:
 
 The company reserves the right to restrict or revoke access for devices deemed insecure or non-compliant.
 
----
-
 ## Incident Response
 
 If a BYOD device is suspected of being compromised:
@@ -141,8 +134,6 @@ If a BYOD device is suspected of being compromised:
 3. Access may be temporarily suspended
 4. The device must be remediated before reconnecting
 
----
-
 ## Compliance
 
 Failure to comply with this policy may result in:
@@ -150,8 +141,6 @@ Failure to comply with this policy may result in:
 - Revocation of remote access privileges
 - Disciplinary action
 - Additional security review requirements
-
----
 
 ## Employee Acknowledgement
 
