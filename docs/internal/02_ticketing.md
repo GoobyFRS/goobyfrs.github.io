@@ -43,32 +43,37 @@ Platform bugs, issues, and feature requests should go through GitHub Issues.
 
 ### Determine Ticket Urgency
 
+Low - 
+
+Medium - 
+
+High - 
+
+Critical -
+
+### Determine Ticket Impact
+
 Low - Impact to a single user or device that does not impede normal business operations.
 
 Medium - Impact to a service but a workaround exist.
 
 High - Critical service is performing below acceptable levels or unavailable. Affecting business operations but not a full work stoppage.
 
-Critical - 
-
-### Determine Ticket Impact
-
-Low -
-
-Medium - 
-
-High - 
-
-Critical - 
+Critical - Critical service is unavailable. Full work stoppage for business operations.
 
 ### Steps in the Major Ticket Process
 
 1. Intake
 1. Triage
-1. Notification Email
+1. Communicate
+1. Isolate
+1. Mitigate
+1. Communicate
+1. RCA
+1. Implement LL
 
 ### Ticket Resolution
 
-Tickets **must** include work notes. Screenshots, telemetry, and related error messages **should** be attached.
+Tickets **must** include work notes. Screenshots, telemetry, and related error messages **can** be attached.
 
 Resolution notes **should** include notes on how the issue was resolved.

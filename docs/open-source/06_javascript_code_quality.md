@@ -7,7 +7,7 @@ nav_order: 6
 ---
 ## # JavaScript Standards & Style Guide
 
-### Core Principles
+### Principles
 
 - **Vanilla first.** Use the DOM API, Fetch API, and Web APIs before adding libraries.
 - **Progressive enhancement.** The page works without JS. JS adds behaviour.

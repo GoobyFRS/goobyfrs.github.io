@@ -79,13 +79,18 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 
 ## Technical Skills
 
-*Complete as applicable to the role.*
-
 | Area | Required | Preferred |
 |---|---|---|
-| [e.g., Networking] | [e.g., Cisco IOS, VLANs, BGP] | [e.g., SD-WAN, MPLS] |
-| [e.g., Security] | [e.g., Firewall management] | [e.g., SIEM, IDS/IPS] |
-| [e.g., Platforms] | [e.g., Windows Server] | [e.g., Linux, VMware] |
+| **Operating Systems** | Windows troubleshooting and administration | Linux server administration, command-line tools |
+| **Networking**        | IP addressing, DNS, port forwarding, basic switching concepts | VLANs, firewall configuration, VPN |
+| **Communication & Collaboration** | Slack, Discord, email platforms, ticketing systems | Helpdesk/MSP platforms (e.g., Freshdesk, Zendesk) |
+| **Remote Access**          | Remote desktop software (e.g., RDP, AnyDesk) | Zero-trust or VPN-based secure access tools |
+| **Hosting & Servers**      | Basic web hosting concepts, server monitoring dashboards | Apache, Nginx, Caddy, AMP by CubeCoders, game server hosting platforms |
+| **Virtualization & Cloud** | Familiarity with virtual machines or cloud-hosted environments | Proxmox, VMware, or cloud platform experience (AWS, GCP, Azure) |
+| **Scripting & Automation** | — | Bash, Python, or PowerShell scripting |
+| **Security**               | Password management, MFA, basic account security practices | Cybersecurity best practices, vulnerability awareness |
+| **Documentation**          | Ability to write clear guides, FAQs, and SOPs in Markdown or similar | Confluence, Notion, or wiki platform experience |
+| **Content & Web**          | Basic file and digital asset management | CMS updates, basic HTML/CSS familiarity |
 
 ## Competencies
 
