@@ -3,7 +3,7 @@ layout: minimal
 title: Technician Discipline & Skills Matrix
 nav_enabled: false
 parent: Handbook
-grand_parent: SMB Project
+grand_parent: SMB Projects
 nav_order: 2
 ---
 
