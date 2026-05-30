@@ -32,12 +32,22 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 - Deploy new Client Services using Terraform.
 - Process Client Services Upgrades.
 - Configure Client Services Monitoring.
+- Offer Basic Technical Support via Discord & Email.
+- Provide customers with Password Resets.
+- Basic Server Troubleshooting (Status, Restart)
+- Basic DNS Troubleshooting.
+- Manual Plugin Updates for WordPress & Minecraft.
+- Assist with SCP/FTP/S3 Operations
+- Container Reloads
 
 **Technician 2:**
 
 - Process Client Services Downgrades.
 - Process Firewall Change Requests.
 - Troubleshoot deployment upgrade/downgrade failures.
+- Diagnose and resolve a wider range of server and application issues.
+- Manage and resolve customer escalations efficiently and effectively.
+- Proactively identify and report potential issues for improvement in our services and processes.
 
 **Technician 3:**
 
@@ -53,6 +63,9 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 - Assist with onboarding documentation, account setup, or service coordination.
 - Monitor tasks, notifications, and operational dashboards for issues or updates.
 - Help maintain organization of files, digital assets, and business systems.
+- Handle complex and critical technical issues, often requiring in-depth knowledge and problem-solving skills.
+- Develop and maintain internal knowledge base documentation and troubleshooting guides.
+Provide technical training to other support team members.
 
 ### Secondary Duties
 
