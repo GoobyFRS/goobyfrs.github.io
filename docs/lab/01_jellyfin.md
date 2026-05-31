@@ -9,7 +9,7 @@ nav_order: 1
 
 Or JellyBox, because it runs in a box.
 
-[JellyFin Docs](https://jellyfin.org/docs/)
+[JellyFin Docs](https://jellyfin.org/docs/) - [Hardware Encoding Guide](https://jellyfin.org/docs/general/post-install/transcoding/hardware-acceleration/intel/)
 
 - IPv4, IPv6, SDWAN enabled.
 - 4 vCPU Cores

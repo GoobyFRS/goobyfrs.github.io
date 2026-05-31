@@ -66,6 +66,11 @@ Hosting and Managed Cloud Services. Founded 2023.
 | AI Spend | $xx/User/Month |
 | HR Spend | $xx/User/Month |
 
+#### Rational
+
+- Google Workspaces > MS Office 365
+- Tailscale
+
 ### Slack
 
 - ```all-mattfaulkner```: Group Chat
