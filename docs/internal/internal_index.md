@@ -61,8 +61,8 @@ Hosting and Managed Cloud Services. Founded 2023.
 | Tailscale | $8/User/Month |
 | MobaXterm | $69/User/Year |
 | S3 Storage | $5/Month |
-| Atlassian | $xx/User/Month |
-| Slack | $xx/User/Month |
+| Atlassian | ~$42/User/Month |
+| Slack | $9/User/Month |
 | AI Spend | $xx/User/Month |
 | HR Spend | $xx/User/Month |
 
