@@ -65,6 +65,7 @@ Hosting and Managed Cloud Services. Founded 2023.
 | Slack | $9/User/Month |
 | AI Spend | $xx/User/Month |
 | HR Spend | $xx/User/Month |
+| Freshbooks | $850/Year |
 
 #### Rational
 
