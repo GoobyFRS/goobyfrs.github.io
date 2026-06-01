@@ -76,3 +76,7 @@ Hosting and Managed Cloud Services. Founded 2023.
 - ```all-mattfaulkner```: Group Chat
 - ```social```: No Use
 - ```tech-alerts```: Private Channel
+
+Nitro Basic: $2.99/month (or $29.99/year). Includes custom emojis anywhere, 50MB file uploads, and a Nitro badge.
+
+Nitro: $9.99/month (or $99.99/year). Includes everything in Basic, plus 500MB uploads, HD video streaming, custom profiles, and two server boosts.
