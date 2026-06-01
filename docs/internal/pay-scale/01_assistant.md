@@ -32,9 +32,7 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 - Support basic customer service and client communication activities.
 - Help manage Discord servers, ticket systems, or internal communication platforms.
 - Maintain records, spreadsheets, documentation, and internal notes.
-- Perform basic technical troubleshooting and escalate issues when necessary.
 - Assist with onboarding documentation, account setup, or service coordination.
-- Monitor tasks, notifications, and operational dashboards for issues or updates.
 - Support small business operations across hosting, consulting, and administrative workflows.
 - Help maintain organization of files, digital assets, and business systems.
 
@@ -44,11 +42,6 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 - Help test new services, platforms, or internal tools.
 - Perform light moderation within online communities or support channels.
 - Assist with basic website updates or content management.
-- Help create guides, tutorials, FAQs, or technical documentation.
-- Participate in research for software, hosting solutions, or operational improvements.
-- Assist with inventory tracking, vendor coordination, or procurement tasks.
-- Support basic server administration or hosting-related maintenance tasks.
-- Help identify workflow improvements or automation opportunities.
 - Assist with event coordination, project planning, or internal initiatives.
 
 > This list is not exhaustive. Additional duties may be assigned as business needs evolve.
@@ -69,14 +62,10 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 ### Preferred
 
 - Experience with customer support, moderation, or online community management.
-- Experience supporting Minecraft servers, game hosting platforms, or web hosting services.
-- [CompTIA IT Fundementals+](https://www.comptia.org/en-us/certifications/itf-pro/) Certification or similar.
 
 ## Technical Skills
 
-- Familair with Windows 10 & Windows 11
-- Familair with IDEs (VSCode/Sublime)
-- Basic TCP/IP Network Knowledge
+- Familiar with Windows 10 & Windows 11
 
 ## Competencies
 
@@ -85,12 +74,10 @@ Key behaviors and attributes for success in this role:
 - Customer-focused communication.
 - Attention to detail.
 - Reliability and accountability.
-- Adaptability in fast-changing technical environments.
 - Ability to prioritize and multitask effectively.
 - Team collaboration and professionalism.
 - Initiative and self-directed learning.
 - Documentation and process-oriented thinking.
-- Calm and professional handling of technical issues and customer concerns.
 
 ## Working Conditions
 
@@ -99,7 +86,7 @@ Key behaviors and attributes for success in this role:
 | **Schedule** | Monday – Friday 0900 – 1700 PST |
 | **Travel** | None, Never |
 | **Physical Requirements** | None |
-| **Environment** | Remote |
+| **Environment** | On Site |
 
 ## Compensation & Benefits
 
