@@ -16,7 +16,7 @@ nav_order: 3
 | Assistant | Support | $10/Hour | $14/Hour |
 | Analyst 1 | Billing | $19/Hour | 22.50/Hour |
 | Analyst 2 | Billing | xxx | xxx |
-| Analyst 3 | Billing | xxx | xxx |
+| Analyst 3 | Billing | xxx | 32/Hour |
 | Technician 1  | Support | $22/Hour | $25.50/Hour |
 | Technician 2  | Support  | $25/Hour | $29/Hour |
 | Technician 3  | Support  | $28/Hour | $32/Hour |
