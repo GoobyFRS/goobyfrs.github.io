@@ -69,13 +69,16 @@ Hosting and Managed Cloud Services. Founded 2023.
 
 #### Rational
 
-- Google Workspaces > MS Office 365
-- Tailscale
+- Google Workspaces > MS Office 365 -- Lowered Admin Overhead for SMB
+- Slack > Discord -- Professional Integrations
+- Atlassian -- Private KB in Confluence, Projects in Jira, Possible Jira Service Management for Ticketing
+- GitHub -- Stable Version Control
 
 ### Slack
 
 - ```all-mattfaulkner```: Group Chat
-- ```social```: No Use
+- ```wordpress```: No Use
+- ```minecraft```: No Use
 - ```tech-alerts```: Private Channel
 
 Nitro Basic: $2.99/month (or $29.99/year). Includes custom emojis anywhere, 50MB file uploads, and a Nitro badge.

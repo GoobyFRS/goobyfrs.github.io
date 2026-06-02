@@ -23,6 +23,7 @@ nav_order: 3
 | Engineer 1 | Engineering | 89k | 99k |
 | Engineer 2 | Engineering | 100k | 109k |
 | Engineer 3 | Engineering | 110k | 120k |
+| Principle Engineer | Engineering | xxxx | xxxx |
 | Sales Engineer | Sales | xxxx | xxxx |
 
 **Leaders**
@@ -32,6 +33,7 @@ nav_order: 3
 | Manager | Support | xxxx | xxxx |
 | Manager | Sales | xxxx | xxxx |
 | Manager | Engineering | xxxx | xxxxx |
+| Manager | HR | xxxx | xxxx |
 | Vice President | xxxx | 10%/Mo/NetProfit | 15%/Mo/NetProfit |
 | President | xxxx | 15%/Mo/NetProfit | 25%/Mo/NetProfit |
 

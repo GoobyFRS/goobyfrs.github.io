@@ -7,16 +7,6 @@ nav_order: 2
 ---
 # Java Edition Hosting
 
-## Plans
-
-### Plan 1
-
-### Plan 2
-
-### Plan 3
-
-### Plan 4
-
 - Optimized Paper.jar Deployments
 - Daily Backups
 - Free Subdomain
@@ -27,6 +17,8 @@ nav_order: 2
 - Free Server Exports
 - Comprehensive DDoS Protection
 - Healthy Intel Xeon E5 v4 Processors
+
+## Plans
 
 ### Copper Golem
 
