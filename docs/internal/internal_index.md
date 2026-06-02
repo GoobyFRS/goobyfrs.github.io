@@ -61,18 +61,26 @@ Hosting and Managed Cloud Services. Founded 2023.
 | Tailscale | $8/User/Month |
 | MobaXterm | $69/User/Year |
 | S3 Storage | $5/Month |
-| Atlassian | $xx/User/Month |
-| Slack | $xx/User/Month |
+| Atlassian | ~$42/User/Month |
+| Slack | $9/User/Month |
 | AI Spend | $xx/User/Month |
 | HR Spend | $xx/User/Month |
+| Freshbooks | $850/Year |
 
 #### Rational
 
-- Google Workspaces > MS Office 365
-- Tailscale
+- Google Workspaces > MS Office 365 -- Lowered Admin Overhead for SMB
+- Slack > Discord -- Professional Integrations
+- Atlassian -- Private KB in Confluence, Projects in Jira, Possible Jira Service Management for Ticketing
+- GitHub -- Stable Version Control
 
 ### Slack
 
 - ```all-mattfaulkner```: Group Chat
-- ```social```: No Use
+- ```wordpress```: No Use
+- ```minecraft```: No Use
 - ```tech-alerts```: Private Channel
+
+Nitro Basic: $2.99/month (or $29.99/year). Includes custom emojis anywhere, 50MB file uploads, and a Nitro badge.
+
+Nitro: $9.99/month (or $99.99/year). Includes everything in Basic, plus 500MB uploads, HD video streaming, custom profiles, and two server boosts.

@@ -14,7 +14,7 @@ nav_order: 2
 | **Classification** | Full Time|
 | **FLSA Status** | Non-Exempt |
 | **Reports To** | Manager, Support |
-| **Location** | Remote |
+| **Location** | On Site |
 | **Pay Range** | $22 – $32 Hour |
 
 ---
@@ -26,6 +26,13 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 ## Responsibilities
 
 ### Core Duties
+
+- Respond to emails, messages, and customer inquiries in a professional manner.
+- Maintain records, spreadsheets, documentation, and internal notes.
+- Perform basic technical troubleshooting and escalate issues when necessary.
+- Assist with onboarding documentation, account setup, or service coordination.
+- Monitor tasks, notifications, and operational dashboards for issues or updates.
+- Help maintain organization of files, digital assets, and business systems.
 
 **Technician 1:**
 
@@ -53,19 +60,9 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 
 - Independently diagnose and resolve complex infrastructure issues impacting customer services.
 - Perform advanced performance tuning and optimization of customer server environments.
-- Lead the development and implementation of new Terraform scripts and automation workflows.
-
-- Respond to emails, messages, and customer inquiries in a professional manner.
-- Support basic customer service and client communication activities.
-- Help manage Slack/Discord servers, ticket systems, or internal communication platforms.
-- Maintain records, spreadsheets, documentation, and internal notes.
-- Perform basic technical troubleshooting and escalate issues when necessary.
-- Assist with onboarding documentation, account setup, or service coordination.
-- Monitor tasks, notifications, and operational dashboards for issues or updates.
-- Help maintain organization of files, digital assets, and business systems.
 - Handle complex and critical technical issues, often requiring in-depth knowledge and problem-solving skills.
 - Develop and maintain internal knowledge base documentation and troubleshooting guides.
-Provide technical training to other support team members.
+- Provide technical training to other support team members.
 
 ### Secondary Duties
 

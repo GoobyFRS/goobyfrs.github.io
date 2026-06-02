@@ -14,12 +14,16 @@ nav_order: 3
 | **Title** | **Unit** | **Low Pay** | **High Pay** |
 | --- | --- | --- | --- |
 | Assistant | Support | $10/Hour | $14/Hour |
+| Analyst 1 | Billing | $19/Hour | 22.50/Hour |
+| Analyst 2 | Billing | xxx | xxx |
+| Analyst 3 | Billing | xxx | 32/Hour |
 | Technician 1  | Support | $22/Hour | $25.50/Hour |
 | Technician 2  | Support  | $25/Hour | $29/Hour |
 | Technician 3  | Support  | $28/Hour | $32/Hour |
 | Engineer 1 | Engineering | 89k | 99k |
 | Engineer 2 | Engineering | 100k | 109k |
 | Engineer 3 | Engineering | 110k | 120k |
+| Principle Engineer | Engineering | xxxx | xxxx |
 | Sales Engineer | Sales | xxxx | xxxx |
 
 **Leaders**
@@ -29,6 +33,7 @@ nav_order: 3
 | Manager | Support | xxxx | xxxx |
 | Manager | Sales | xxxx | xxxx |
 | Manager | Engineering | xxxx | xxxxx |
+| Manager | HR | xxxx | xxxx |
 | Vice President | xxxx | 10%/Mo/NetProfit | 15%/Mo/NetProfit |
 | President | xxxx | 15%/Mo/NetProfit | 25%/Mo/NetProfit |
 
@@ -56,7 +61,7 @@ nav_order: 3
 - Engineering
 - Marketing
 - Finance
-- Human Reaources
+- Human Resources
 - Legal
 - Administration
 - Executive

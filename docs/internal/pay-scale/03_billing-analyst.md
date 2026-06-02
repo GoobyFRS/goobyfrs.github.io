@@ -14,7 +14,7 @@ nav_order: 2
 | **Classification** | Full Time|
 | **FLSA Status** | Non-Exempt |
 | **Reports To** | Manager, Support |
-| **Location** | Remote |
+| **Location** | On Site |
 | **Pay Range** | TDB |
 
 ---
