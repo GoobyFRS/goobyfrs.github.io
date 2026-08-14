@@ -5,7 +5,7 @@ nav_enabled: true
 parent: Home Lab
 nav_order: 1
 ---
-# Jellyfin
+## Jellyfin
 
 Or JellyBox, because it runs in a box.
 
@@ -14,7 +14,7 @@ Or JellyBox, because it runs in a box.
 - IPv4, IPv6, SDWAN enabled.
 - 4 vCPU Cores
 - 8 GB Memory
-- 256 GB SSD
+- 1 TB SSD
 - Hardware Transcoding Enabled (QSV)
 
 ## Monitoring

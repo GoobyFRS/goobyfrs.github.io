@@ -5,16 +5,17 @@ nav_enabled: true
 parent: Open Source Projects
 nav_order: 5
 ---
-# Python3 Standards & Style Guide
+## Python3 Standards & Style Guide
 
 ## Language Preference
+
 - **Primary language**: Python 3
 - **Compliance**: PEP8 compliant
 
 ## Naming Conventions
 
 | Type | Convention | Example |
-|------|------------|---------|
+| ------ | ------------ | --------- |
 | Variables | `snake_case` | `user_count`, `total_items` |
 | Constants | `UPPERCASE` | `MAX_RETRIES`, `API_BASE_URL` |
 | Functions | `snake_case` | `get_user_data()`, `calculate_total()` |
@@ -26,6 +27,7 @@ nav_order: 5
 ## Code Structure
 
 ### Nesting
+
 - **Maximum nesting depth**: 4 levels
 - Use early returns, guard clauses, and extraction to reduce nesting
 - Prefer flat over nested
@@ -624,7 +626,7 @@ ignore = ["D203", "D213"]  # Only ignore with justification
 ### Quick Reference Table
 
 | Rule | Python Guidance |
-|------|-----------------|
+| ------ | ----------------- |
 | Simple control flow | No recursion; use iteration with explicit stacks |
 | Fixed loop bounds | Always use `for` with range or set `MAX_ITERATIONS` |
 | Bounded data | Pre-allocate; use `maxlen`, `maxsize` parameters |
@@ -674,6 +676,7 @@ logger = logging.getLogger(__name__)
 ```
 
 **Output example:**
+
 ```
 2024-03-15 14:32:07 - INFO - auth/validate_token - Token validated for user_id=123
 2024-03-15 14:32:08 - WARNING - database/execute_query - Slow query detected (2.3s)
@@ -683,7 +686,7 @@ logger = logging.getLogger(__name__)
 **Log levels:**
 
 | Level | Use for |
-|-------|---------|
+| ------- | --------- |
 | `DEBUG` | Detailed diagnostic info (disabled in production) |
 | `INFO` | General operational events (startup, shutdown, key actions) |
 | `WARNING` | Unexpected but handled situations |
@@ -738,6 +741,7 @@ API_SECRET_KEY = os.getenv("API_SECRET_KEY")
 ```
 
 **Rules:**
+
 - Secrets = credentials, API keys, passwords, tokens → `.env`
 - Configuration = app settings, feature flags, thresholds → `configuration.yml`
 
@@ -805,11 +809,13 @@ Follow **Semantic Versioning** (SemVer): `MAJOR.MINOR.PATCH`
 | **PATCH** | Bug fixes, backwards compatible |
 
 **Examples:**
+
 - `1.0.0` → `2.0.0`: Removed a public function
 - `1.0.0` → `1.1.0`: Added new optional parameter
 - `1.0.0` → `1.0.1`: Fixed a bug
 
 **Pre-release versions:**
+
 - Alpha: `1.0.0-alpha.1`
 - Beta: `1.0.0-beta.1`
 - Release candidate: `1.0.0-rc.1`

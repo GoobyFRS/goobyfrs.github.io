@@ -4,9 +4,9 @@ title: SMB Projects
 nav_enabled: true
 nav_order: 0
 ---
-# Internal Documents
+## Internal Documents
 
-## GR Host
+### GR Host
 
 Hosting and Managed Cloud Services. Founded 2023.
 
@@ -29,7 +29,7 @@ Hosting and Managed Cloud Services. Founded 2023.
 
 **Marketing and Growth:** Stale
 
-## BlueBotPC
+### BlueBotPC
 
 [BlueBotPC](https://bluebotpc.com/) - Enabling Growth thru Strategic IT Infrastructure Engineering. Founded 2017.
 
@@ -39,7 +39,7 @@ Hosting and Managed Cloud Services. Founded 2023.
 
 **Regulations:** Basic
 
-**Service Lines:** 
+**Service Lines:**
 
 - General Consulting
 - Hardware & Software Procurement
@@ -49,7 +49,6 @@ Hosting and Managed Cloud Services. Founded 2023.
 **R&D:** Stale
 
 **Marketing & Growth:** Stale
-
 
 ### Platforms
 

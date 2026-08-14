@@ -37,6 +37,7 @@ Every page starts with this canonical shell.
 ```
 
 Key rules:
+
 - `lang` attribute on `<html>` is **mandatory** — affects screen readers and search.
 - `charset` and `viewport` come before anything else in `<head>`.
 - Scripts use `defer` and go at the bottom of `<body>` — never in `<head>` without `defer` or `async`.
@@ -77,7 +78,7 @@ Use the element that describes the content, not the one that looks right by defa
 Landmark elements and their purposes:
 
 | Element | Use for |
-|---------|---------|
+| --------- | --------- |
 | `<header>` | Site or section header |
 | `<nav>` | Navigation blocks |
 | `<main>` | Primary page content (one per page) |
@@ -138,6 +139,7 @@ These are non-negotiable for static pages:
 ```
 
 Rules:
+
 - All images have `alt`. Decorative images have `alt=""`.
 - Interactive elements are keyboard navigable — never remove `outline` without providing a replacement focus style.
 - Color alone never conveys meaning.
@@ -303,6 +305,7 @@ div { color: red; }
 ```
 
 Specificity rules:
+
 - Prefer class selectors over ID selectors for styling.
 - Never use `!important` except in utility override classes (`.sr-only`, `.visually-hidden`).
 - Keep selector depth to **3 levels maximum**.

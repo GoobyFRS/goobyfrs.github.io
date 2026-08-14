@@ -5,11 +5,11 @@ nav_enabled: true
 parent: SMB Projects
 nav_order: 3
 ---
-# Pay Scale
+## Pay Scale
 
 > Content is subject to change
 
-**Individual Contributor**
+**Individual Contributor:**
 
 | **Title** | **Unit** | **Low Pay** | **High Pay** |
 | --- | --- | --- | --- |
@@ -17,16 +17,16 @@ nav_order: 3
 | Analyst 1 | Billing | $19/Hour | 22.50/Hour |
 | Analyst 2 | Billing | xxx | xxx |
 | Analyst 3 | Billing | xxx | 32/Hour |
-| Technician 1  | Support | $22/Hour | $25.50/Hour |
-| Technician 2  | Support  | $25/Hour | $29/Hour |
-| Technician 3  | Support  | $28/Hour | $32/Hour |
+| Technician 1 | Support | $22/Hour | $25.50/Hour |
+| Technician 2 | Support | $25/Hour | $29/Hour |
+| Technician 3 | Support | $28/Hour | $32/Hour |
 | Engineer 1 | Engineering | 89k | 99k |
 | Engineer 2 | Engineering | 100k | 109k |
 | Engineer 3 | Engineering | 110k | 120k |
 | Principle Engineer | Engineering | xxxx | xxxx |
 | Sales Engineer | Sales | xxxx | xxxx |
 
-**Leaders**
+**Leaders:**
 
 | **Role Type** | **Title** | **Low Pay** | **High Pay** |
 | --- | --- | --- | --- |

@@ -6,12 +6,12 @@ parent: Pay Scale
 grand_parent: SMB Projects
 nav_order: 2
 ---
-# Technician
+## Technician
 
 | | |
-|---|---|
+| --- | --- |
 | **Department** | Support |
-| **Classification** | Full Time|
+| **Classification** | Full Time |
 | **FLSA Status** | Non-Exempt |
 | **Reports To** | Manager, Support |
 | **Location** | On Site |
@@ -21,7 +21,7 @@ nav_order: 2
 
 ## Position Summary
 
-Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR Host]() by assisting with customer communication, organization, scheduling, and general administrative tasks. Work closely with MATTFAULKNER to help maintain smooth business operations for both a professional consulting/MSP environment and a cloud hosting platform focused on Minecraft and game server hosting. This flexible remote role is ideal for someone who is dependable, organized, comfortable with technology, and able to adapt to a variety of support tasks as needed.
+Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR Host](https://grhost.net/) by assisting with customer communication, organization, scheduling, and general administrative tasks. Work closely with MATTFAULKNER to help maintain smooth business operations for both a professional consulting/MSP environment and a cloud hosting platform focused on Minecraft and game server hosting. This flexible remote role is ideal for someone who is dependable, organized, comfortable with technology, and able to adapt to a variety of support tasks as needed.
 
 ## Responsibilities
 
@@ -108,17 +108,17 @@ Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR H
 ## Technical Skills
 
 | Area | Required | Preferred |
-|---|---|---|
+| --- | --- | --- |
 | **Operating Systems** | Windows troubleshooting and administration | Linux server administration, command-line tools |
-| **Networking**        | IP addressing, DNS, port forwarding, basic switching concepts | VLANs, firewall configuration, VPN |
+| **Networking** | IP addressing, DNS, port forwarding, basic switching concepts | VLANs, firewall configuration, VPN |
 | **Communication & Collaboration** | Slack, Discord, email platforms, ticketing systems | Helpdesk/MSP platforms (e.g., Freshdesk, Zendesk) |
-| **Remote Access**          | Remote desktop software (e.g., RDP, AnyDesk) | Zero-trust or VPN-based secure access tools |
-| **Hosting & Servers**      | Basic web hosting concepts, server monitoring dashboards | Apache, Nginx, Caddy, AMP by CubeCoders, game server hosting platforms |
+| **Remote Access** | Remote desktop software (e.g., RDP, AnyDesk) | Zero-trust or VPN-based secure access tools |
+| **Hosting & Servers** | Basic web hosting concepts, server monitoring dashboards | Apache, Nginx, Caddy, AMP by CubeCoders, game server hosting platforms |
 | **Virtualization & Cloud** | Familiarity with virtual machines or cloud-hosted environments | Proxmox, VMware, or cloud platform experience (AWS, GCP, Azure) |
 | **Scripting & Automation** | — | Bash, Python, or PowerShell scripting |
-| **Security**               | Password management, MFA, basic account security practices | Cybersecurity best practices, vulnerability awareness |
-| **Documentation**          | Ability to write clear guides, FAQs, and SOPs in Markdown or similar | Confluence, Notion, or wiki platform experience |
-| **Content & Web**          | Basic file and digital asset management | CMS updates, basic HTML/CSS familiarity |
+| **Security** | Password management, MFA, basic account security practices | Cybersecurity best practices, vulnerability awareness |
+| **Documentation** | Ability to write clear guides, FAQs, and SOPs in Markdown or similar | Confluence, Notion, or wiki platform experience |
+| **Content & Web** | Basic file and digital asset management | CMS updates, basic HTML/CSS familiarity |
 
 ## Competencies
 
@@ -138,7 +138,7 @@ Key behaviors and attributes for success in this role:
 ## Working Conditions
 
 | | |
-|---|---|
+| --- | --- |
 | **Schedule** | Monday – Friday 0900 – 1700 PST |
 | **Travel** | None, Never |
 | **Physical Requirements** | None |
@@ -148,9 +148,9 @@ Key behaviors and attributes for success in this role:
 
 | **Title** | **Unit** | **Low Pay** | **High Pay** |
 | --- | --- | --- | --- |
-| Technician 1  | Support | $22/Hour | $25.50/Hour |
-| Technician 2  | Support  | $25/Hour | $29/Hour |
-| Technician 3  | Support  | $28/Hour | $32/Hour |
+| Technician 1 | Support | $22/Hour | $25.50/Hour |
+| Technician 2 | Support | $25/Hour | $29/Hour |
+| Technician 3 | Support | $28/Hour | $32/Hour |
 
 - Professional development opportunities
 

@@ -24,7 +24,7 @@ color_scheme: dark
 - Minecraft ≥ 1.18 requires Java 17.
 - Minecraft ≥ 1.12 requires Java 8.
 
-Older versions of Minecraft can run on newer Java, for example, Minecraft 1.16 can run on Java 17, Minecraft 1.18 can run on Java 20, etc. 
+Older versions of Minecraft can run on newer Java, for example, Minecraft 1.16 can run on Java 17, Minecraft 1.18 can run on Java 20, etc.
 
 [**Oracle OS Firewall Fix**](https://discourse.cubecoders.com/t/using-amp-on-oracle-cloud/2307): Execute as ```root```.
 

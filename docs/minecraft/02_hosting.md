@@ -5,7 +5,7 @@ nav_enabled: true
 parent: Minecraft
 nav_order: 2
 ---
-# Java Edition Hosting
+## Java Edition Hosting
 
 - Optimized Paper.jar Deployments
 - Daily Backups

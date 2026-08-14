@@ -5,7 +5,7 @@ nav_enabled: true
 parent: Home Lab
 nav_order: 4
 ---
-# Uptime-Kuma
+## Uptime-Kuma
 
 [GitHub Repo](https://github.com/louislam/uptime-kuma)
 

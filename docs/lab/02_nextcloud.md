@@ -5,7 +5,7 @@ nav_enabled: true
 parent: Home Lab
 nav_order: 2
 ---
-# Matts Home Cloud (NextCloud)
+## Matts Home Cloud (Nextcloud)
 
 [GitHub Repo](https://github.com/nextcloud/all-in-one)
 
@@ -40,4 +40,3 @@ Submit a ticket at ```https://support.mattfaulkner.net```
 
 {: .warning }
 Not accepting any new users in 2026.
-

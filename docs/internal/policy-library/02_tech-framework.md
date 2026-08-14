@@ -7,7 +7,7 @@ grand_parent: SMB Projects
 nav_order: 2
 ---
 
-# Technician Discipline & Skills Matrix
+## Technician Discipline & Skills Matrix
 
 ## Discipline Definition
 
@@ -16,8 +16,8 @@ Network and IT Technicians at [MATTFAULKNER] support infrastructure operations a
 ## Level Overview
 
 | Level | Title | Classification |
-|---|---|---|
-| **Level 1** | Technician I  | Part-Time / Contractor / Entry Full-Time |
+| --- | --- | --- |
+| **Level 1** | Technician I | Part-Time / Contractor / Entry Full-Time |
 | **Level 2** | Technician II | Full-Time |
 | **Level 3** | Technician III | Full-Time |
 | **Level 4** | Senior Technician | Full-Time |
