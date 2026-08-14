@@ -6,12 +6,12 @@ parent: Pay Scale
 grand_parent: SMB Projects
 nav_order: 1
 ---
-# Assistant
+## Assistant
 
 | | |
-|---|---|
+| --- | --- |
 | **Department** | Support |
-| **Classification** | Part Time|
+| **Classification** | Part Time |
 | **FLSA Status** | Non-Exempt |
 | **Reports To** | Manager, Support |
 | **Location** | Remote |
@@ -21,7 +21,7 @@ nav_order: 1
 
 ## Position Summary
 
-Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR Host]() by assisting with customer communication, organization, scheduling, and general administrative tasks. Work closely with MATTFAULKNER to help maintain smooth business operations for both a professional consulting/MSP environment and a cloud hosting platform focused on Minecraft and game server hosting. This flexible remote role is ideal for someone who is dependable, organized, comfortable with technology, and able to adapt to a variety of support tasks as needed.
+Support day-to-day operations across [BlueBotPC](https://bluebot.com/) and [GR Host](https://grhost.net/) by assisting with customer communication, organization, scheduling, and general administrative tasks. Work closely with MATTFAULKNER to help maintain smooth business operations for both a professional consulting/MSP environment and a cloud hosting platform focused on Minecraft and game server hosting. This flexible remote role is ideal for someone who is dependable, organized, comfortable with technology, and able to adapt to a variety of support tasks as needed.
 
 ## Responsibilities
 
@@ -82,7 +82,7 @@ Key behaviors and attributes for success in this role:
 ## Working Conditions
 
 | | |
-|---|---|
+| --- | --- |
 | **Schedule** | Monday – Friday 0900 – 1700 PST |
 | **Travel** | None, Never |
 | **Physical Requirements** | None |

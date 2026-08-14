@@ -5,7 +5,7 @@ nav_enabled: true
 parent: SMB Projects
 nav_order: 5
 ---
-# User Journey
+## User Journey
 
 ## GR Host - Minecraft
 

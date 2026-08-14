@@ -5,7 +5,7 @@ nav_enabled: true
 parent: SMB Projects
 nav_order: 4
 ---
-# WordPress
+## WordPress
 
 - Fully Managed Linux Server
 - 24/7 Server Health Monitoring
@@ -13,7 +13,7 @@ nav_order: 4
 - Dedicated IPv4 & IPv6 Addresses
 - Automated Rolling Backups
 
-## Plan Details
+### Plan Details
 
 |          | **GR-1** | **GR Silver** | **GR Gold** | **Platinum** | **Foundations** |
 | ---          | ---  | ---  | ---  | ---   | ---    |

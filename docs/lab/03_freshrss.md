@@ -5,7 +5,7 @@ nav_enabled: true
 parent: Home Lab
 nav_order: 3
 ---
-# FreshRSS
+## FreshRSS
 
 [GitHub Repo](https://github.com/FreshRSS/FreshRSS)
 

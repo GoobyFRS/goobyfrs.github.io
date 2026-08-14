@@ -18,7 +18,7 @@ Go is opinionated by design. The toolchain enforces most formatting automaticall
 These tools are mandatory, not optional. Run them before every commit.
 
 | Tool | Purpose | Command |
-|------|---------|---------|
+| ------ | --------- | --------- |
 | `gofmt` | Canonical formatting | `gofmt -w .` |
 | `goimports` | Format + manage imports | `goimports -w .` |
 | `go vet` | Catches common bugs | `go vet ./...` |
@@ -47,7 +47,7 @@ linters-settings:
 ## Naming Conventions
 
 | Type | Convention | Example |
-|------|------------|---------|
+| ------ | ------------ | --------- |
 | Variables | `camelCase` | `userCount`, `totalItems` |
 | Constants | `camelCase` or `PascalCase` | `maxRetries`, `DefaultTimeout` |
 | Functions / Methods | `camelCase` (unexported), `PascalCase` (exported) | `parseToken()`, `FetchUser()` |

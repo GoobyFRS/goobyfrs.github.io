@@ -4,9 +4,9 @@ title: SMB Projects
 nav_enabled: true
 nav_order: 0
 ---
-# Internal Documents
+## Internal Documents
 
-## GR Host
+### GR Host
 
 Hosting and Managed Cloud Services. Founded 2023.
 
@@ -29,7 +29,7 @@ Hosting and Managed Cloud Services. Founded 2023.
 
 **Marketing and Growth:** Stale
 
-## BlueBotPC
+### BlueBotPC
 
 [BlueBotPC](https://bluebotpc.com/) - Enabling Growth thru Strategic IT Infrastructure Engineering. Founded 2017.
 
@@ -39,7 +39,7 @@ Hosting and Managed Cloud Services. Founded 2023.
 
 **Regulations:** Basic
 
-**Service Lines:** 
+**Service Lines:**
 
 - General Consulting
 - Hardware & Software Procurement
@@ -50,7 +50,6 @@ Hosting and Managed Cloud Services. Founded 2023.
 
 **Marketing & Growth:** Stale
 
-
 ### Platforms
 
 | **Platform** | **Cost** |
@@ -59,6 +58,7 @@ Hosting and Managed Cloud Services. Founded 2023.
 | GitHub | $4/User/Month |
 | GH Copilot | $19/User/Month |
 | Tailscale | $8/User/Month |
+| Bitwarden | $4/User/Month |
 | MobaXterm | $69/User/Year |
 | S3 Storage | $5/Month |
 | Atlassian | ~$42/User/Month |
@@ -66,6 +66,18 @@ Hosting and Managed Cloud Services. Founded 2023.
 | AI Spend | $xx/User/Month |
 | HR Spend | $xx/User/Month |
 | Freshbooks | $850/Year |
+
+### Equipment
+
+- **Primary Laptop:**
+- **Secondary Laptop:** Apple Macbook Pro
+- **Chromebook:**
+
+- **Primary Workstation:**
+- **Secondary Workstation:**
+- **Tertiary Workstation:**
+
+- **Cell Phone:** Apple iPhone 17e
 
 #### Rational
 

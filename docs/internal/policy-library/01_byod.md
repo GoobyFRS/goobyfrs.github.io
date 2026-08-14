@@ -6,7 +6,7 @@ parent: Handbook
 grand_parent: SMB Projects
 nav_order: 1
 ---
-# Bring Your Own Device (BYOD) Policy
+## Bring Your Own Device (BYOD) Policy
 
 ## Purpose
 

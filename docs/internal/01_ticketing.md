@@ -6,7 +6,7 @@ parent: SMB Projects
 nav_order: 2
 ---
 
-# Ticket Handling Standards
+## Ticket Handling Standards
 
 ## Ticket Intake
 

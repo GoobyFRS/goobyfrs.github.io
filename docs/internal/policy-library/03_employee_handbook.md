@@ -7,7 +7,7 @@ grand_parent: SMB Projects
 nav_order: 3
 ---
 
-# [MATTFAULKNER] Employee Handbook
+## [MATTFAULKNER] Employee Handbook
 
 ## Welcome
 
@@ -30,7 +30,7 @@ Harassment, discrimination, retaliation, or hostile conduct of any kind will not
 Employees at [MATTFAULKNER] are classified as follows:
 
 | Classification | Description |
-|---|---|
+| --- | --- |
 | **Full-Time** | 40 hours/week; eligible for full benefits package |
 | **Part-Time** | Regularly scheduled below 40 hours/week; benefits eligibility varies |
 | **Seasonal** | Fixed-duration employment tied to a specific season or business period; limited benefits |
@@ -111,7 +111,7 @@ Health insurance is effective the first of the month following 60 days of employ
 Full-time employees accrue PTO based on length of service:
 
 | Tenure | PTO Accrual |
-|---|---|
+| --- | --- |
 | 0–2 years | 12 days per year |
 | 3–5 years | 18 days per year |
 | 6+ years | 24 days per year |
@@ -209,7 +209,7 @@ Employees working within the cardholder data environment may **never**:
 ### Data Classification
 
 | Classification | Examples | Handling |
-|---|---|---|
+| --- | --- | --- |
 | **Public** | Marketing materials, published docs | No restrictions |
 | **Internal** | Procedures, org info | Internal channels only |
 | **Confidential** | Client data, business strategy | Encrypted storage, need-to-know access |
@@ -259,7 +259,7 @@ Employees must:
 ### Password and MFA Requirements
 
 | Requirement | Standard |
-|---|---|
+| --- | --- |
 | **Minimum length** | 14 characters |
 | **Recommended approach** | Strong passphrase |
 | **Reuse** | Prohibited across systems |
@@ -311,7 +311,7 @@ All employees must **immediately** report any of the following:
 Report all incidents to [MATTFAULKNER] via:
 
 | Contact | Use For |
-|---|---|
+| --- | --- |
 | **[MATTFAULKNER] Primary Contact** | All incidents — first point of contact |
 | **Email:** [Insert Security Contact Email] | Written incident documentation |
 | **Emergency:** [Insert Emergency Contact] | Active breaches or device theft |
@@ -353,7 +353,7 @@ Leave eligibility varies by classification. Employees should follow [MATTFAULKNE
 Policy violations may result in the following, depending on severity:
 
 | Step | Action |
-|---|---|
+| --- | --- |
 | 1 | Verbal warning |
 | 2 | Written warning with documented corrective expectations |
 | 3 | Suspension or revocation of system access pending review |
