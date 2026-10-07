@@ -7,6 +7,8 @@ nav_order: 7
 ---
 # Golang Standards & Style Guide
 
+Below you will find high quality instructions for your `agents.md` file. This is how you get Production Ready code.
+
 ## Philosophy
 
 Go is opinionated by design. The toolchain enforces most formatting automatically — your job is to work *with* the language, not fight it. Where Python rewards flexibility, Go rewards clarity and explicitness. Adopt Go idioms rather than porting Python habits.
@@ -18,7 +20,7 @@ Go is opinionated by design. The toolchain enforces most formatting automaticall
 These tools are mandatory, not optional. Run them before every commit.
 
 | Tool | Purpose | Command |
-| ------ | --------- | --------- |
+| --- | --- | --- |
 | `gofmt` | Canonical formatting | `gofmt -w .` |
 | `goimports` | Format + manage imports | `goimports -w .` |
 | `go vet` | Catches common bugs | `go vet ./...` |
@@ -47,7 +49,7 @@ linters-settings:
 ## Naming Conventions
 
 | Type | Convention | Example |
-| ------ | ------------ | --------- |
+| --- | --- | --- |
 | Variables | `camelCase` | `userCount`, `totalItems` |
 | Constants | `camelCase` or `PascalCase` | `maxRetries`, `DefaultTimeout` |
 | Functions / Methods | `camelCase` (unexported), `PascalCase` (exported) | `parseToken()`, `FetchUser()` |

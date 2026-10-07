@@ -7,6 +7,8 @@ nav_order: 6
 ---
 ## # JavaScript Standards & Style Guide
 
+Below you will find high quality instructions for your `agents.md` file. This is how you get Production Ready code.
+
 ### Principles
 
 - **Vanilla first.** Use the DOM API, Fetch API, and Web APIs before adding libraries.
@@ -31,7 +33,7 @@ js/
 ### Naming Conventions
 
 | Type | Convention | Example |
-| ------ | ------------ | --------- |
+| --- | --- | --- |
 | Variables | `camelCase` | `userCount`, `fetchedData` |
 | Constants | `UPPER_SNAKE_CASE` | `MAX_RETRIES`, `API_BASE_URL` |
 | Functions | `camelCase`, verb-first | `fetchUser()`, `handleSubmit()` |
@@ -380,7 +382,7 @@ const displaySettings = {
 ### Go
 
 | Rule | Guidance |
-| ------ | ---------- |
+| --- | --- |
 | Simple control flow | No `goto`; iterate, don't recurse; depth-guard if needed |
 | Fixed loop bounds | `for i := range MAX` or explicit bound with error at limit |
 | Bounded data | Buffered channels with capacity; `lru.New[K,V](maxSize)` |
@@ -395,7 +397,7 @@ const displaySettings = {
 ### JavaScript / HTML / CSS
 
 | Rule | Guidance |
-| ------ | ---------- |
+| --- | --- |
 | Simple control flow | `async/await` over callbacks; no `eval`/`new Function` |
 | Fixed loop bounds | `for` with explicit count; `MAX_RETRIES` constant |
 | Bounded data | `BoundedCache` pattern; `maxSize` on all collections |

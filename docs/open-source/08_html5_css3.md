@@ -7,6 +7,8 @@ nav_order: 8
 ---
 # HTML5 Standards & Style Guide
 
+Below you will find high quality instructions for your `agents.md` file. This is how you get Production Ready code.
+
 ## Philosophy
 
 Vanilla-first means the platform is your framework. Prefer what the browser gives you natively before reaching for abstractions. Every dependency is a liability — add them deliberately, not habitually. Progressive enhancement is the default posture: content and function first, presentation layered on top.
@@ -78,7 +80,7 @@ Use the element that describes the content, not the one that looks right by defa
 Landmark elements and their purposes:
 
 | Element | Use for |
-| --------- | --------- |
+| --- | --- |
 | `<header>` | Site or section header |
 | `<nav>` | Navigation blocks |
 | `<main>` | Primary page content (one per page) |

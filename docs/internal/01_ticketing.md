@@ -31,7 +31,7 @@ Incidents **should** be worked by Priority and then by Created date.
 ### Ticket SLAs
 
 | Status | In-Progress | Resolved |
-| ---- | --- | --- |
+| --- | --- | --- |
 | Planning | 5 | 14 |
 | Low | 2 | 10 |
 | Medium | 1 | 5 |

@@ -16,7 +16,7 @@ nav_order: 4
 ### Plan Details
 
 |          | **GR-1** | **GR Silver** | **GR Gold** | **Platinum** | **Foundations** |
-| ---          | ---  | ---  | ---  | ---   | ---    |
+| --- | --- | --- | --- | --- | --- |
 | **Price**    | $20  | $40  | $85  | $150  | $250   |
 | **Storage**  | 20GB | 50GB | 75GB | 75GB  | 150GB  |
 | **Transfer** | 1TB  | 2TB  | 3TB  | 4TB   | 5TB    |

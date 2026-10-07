@@ -98,7 +98,7 @@ Overtime and work outside the agreed scope must be **pre-approved** by managemen
 Benefits eligibility varies by employment classification:
 
 | Benefit                  | Full-Time | Part-Time | Seasonal | Contractor |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | Health Insurance         | ✓ | Varies | — | — |
 | Paid Time Off (PTO)      | ✓ | Varies | — | — |
 | 401(k)                   | ✓ | Varies | — | — |

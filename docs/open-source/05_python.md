@@ -1,11 +1,13 @@
 ---
 layout: minimal
-title: Python Code Quality
+title: Python3 Code Quality
 nav_enabled: true
 parent: Open Source Projects
 nav_order: 5
 ---
 ## Python3 Standards & Style Guide
+
+Below you will find high quality instructions for your `agents.md` file. This is how you get Production Ready code.
 
 ## Language Preference
 
@@ -15,7 +17,7 @@ nav_order: 5
 ## Naming Conventions
 
 | Type | Convention | Example |
-| ------ | ------------ | --------- |
+| --- | --- | --- |
 | Variables | `snake_case` | `user_count`, `total_items` |
 | Constants | `UPPERCASE` | `MAX_RETRIES`, `API_BASE_URL` |
 | Functions | `snake_case` | `get_user_data()`, `calculate_total()` |
@@ -626,7 +628,7 @@ ignore = ["D203", "D213"]  # Only ignore with justification
 ### Quick Reference Table
 
 | Rule | Python Guidance |
-| ------ | ----------------- |
+| --- | --- |
 | Simple control flow | No recursion; use iteration with explicit stacks |
 | Fixed loop bounds | Always use `for` with range or set `MAX_ITERATIONS` |
 | Bounded data | Pre-allocate; use `maxlen`, `maxsize` parameters |
@@ -686,7 +688,7 @@ logger = logging.getLogger(__name__)
 **Log levels:**
 
 | Level | Use for |
-| ------- | --------- |
+| --- | --- |
 | `DEBUG` | Detailed diagnostic info (disabled in production) |
 | `INFO` | General operational events (startup, shutdown, key actions) |
 | `WARNING` | Unexpected but handled situations |
@@ -803,7 +805,7 @@ port = config["server"]["port"]
 Follow **Semantic Versioning** (SemVer): `MAJOR.MINOR.PATCH`
 
 | Increment | When |
-|-----------|------|
+| --- | --- |
 | **MAJOR** | Breaking/incompatible API changes |
 | **MINOR** | New functionality, backwards compatible |
 | **PATCH** | Bug fixes, backwards compatible |
