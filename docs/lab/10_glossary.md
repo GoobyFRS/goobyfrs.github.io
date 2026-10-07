@@ -5,7 +5,7 @@ nav_enabled: true
 parent: Home Lab
 nav_order: 10
 ---
-## KB Glossary
+## Knowledge Base Glossary
 
 ### A
 
@@ -22,6 +22,8 @@ nav_order: 10
 ### G
 
 ### H
+
+**Hypervisor** -
 
 ### I
 

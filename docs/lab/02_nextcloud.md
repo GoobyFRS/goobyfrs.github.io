@@ -40,3 +40,9 @@ Submit a ticket at ```https://support.mattfaulkner.net```
 
 {: .warning }
 Not accepting any new users in 2026.
+
+### Deployment Notes
+
+```bash
+sudo docker run --init --sig-proxy=false --name nextcloud-aio-mastercontainer --restart always --publish 80:80 --publish 8080:8080 --publish 8443:8443 --env SKIP_DOMAIN_VALIDATION=false --env NEXTCLOUD_MAX_TIME=3600 --env NEXTCLOUD_MEMORY_LIMIT=4096M --env NEXTCLOUD_UPLOAD_LIMIT=10G --env NEXTCLOUD_ADDITIONAL_APKS="imagemagick nano" --volume nextcloud_aio_mastercontainer:/mnt/docker-aio-config --volume /var/run/docker.sock:/var/run/docker.sock:ro nextcloud/all-in-one:latest
+```

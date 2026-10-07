@@ -97,12 +97,12 @@ Overtime and work outside the agreed scope must be **pre-approved** by managemen
 
 Benefits eligibility varies by employment classification:
 
-| Benefit                  | Full-Time | Part-Time | Seasonal | Contractor |
+| Benefit | Full-Time | Part-Time | Seasonal | Contractor |
 | --- | --- | --- | --- | --- |
-| Health Insurance         | ✓ | Varies | — | — |
-| Paid Time Off (PTO)      | ✓ | Varies | — | — |
-| 401(k)                   | ✓ | Varies | — | — |
-| Professional Development | ✓ | ✓      | — | — |
+| Health Insurance | ✓ | Varies | — | — |
+| Paid Time Off (PTO) | ✓ | Varies | — | — |
+| 401(k) | ✓ | Varies | — | — |
+| Professional Development | ✓ | ✓ | — | — |
 
 Health insurance is effective the first of the month following 60 days of employment for eligible employees.
 

@@ -40,4 +40,4 @@ nav_order: 4
 
 #### Alerting Workflow
 
-Alert -> GR_Core API -> Ticket Submitted -> Chat Webhook Sent
+Alert -> GoobyDesk API -> Ticket Submitted -> Chat Webhook Sent

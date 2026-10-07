@@ -5,7 +5,7 @@ nav_enabled: true
 nav_order: 0
 color_scheme: dark
 ---
-# Minecraft at Home
+## Minecraft at Home
 
 [Minecraft Wiki](https://minecraft.wiki/) - Official Wiki
 
@@ -42,15 +42,3 @@ iptables -P INPUT DROP
 iptables -D INPUT 6
 iptables-save > /etc/iptables/rules.v4
 ```
-
-## Discord
-
-[Invite Link](ge6necsyxR)
-
-- ```welcome```: Welcome Info and Rules
-- ```announcements```: Community Announcements
-- ```community```: Group Chat
-- ```birdhousemc```: Minecraft Server Cross Chat
-- ```bot-spam```: Tatsu Bot Channel
-- ```memes-n-nsfw```: NSFW content MUST go here.
-- ```tech-alerts```: Private Channel

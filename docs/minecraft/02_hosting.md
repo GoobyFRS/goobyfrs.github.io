@@ -7,7 +7,7 @@ nav_order: 2
 ---
 ## Java Edition Hosting
 
-- Optimized Paper.jar Deployments
+- Optimized Paper.jar Deployments using [JVM Flags](https://flags.sh/)
 - Daily Backups
 - Free Subdomain
 - SSD Storage
@@ -30,4 +30,4 @@ $12/Month, 4GB Memory, 60GB Storage, 24 Player Slots
 
 ### Bloom Plan
 
-24/Month, 8GB Memory, 80GB Storage, Unlimited Player Slots. Perfect for Modpacks!
+24/Month, 8GB Memory, 80GB Storage, Unlimited Player Slots.

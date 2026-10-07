@@ -33,3 +33,4 @@ Basic TCP-port monitoring into UptimDawg.
 - Accept TailNet Share Invite
 - Get Welcome Email
 - Login to Jellyfin
+- Enjoy!

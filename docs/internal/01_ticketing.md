@@ -68,9 +68,9 @@ Critical - Critical service is unavailable. Full work stoppage for business oper
 1. Communicate
 1. Isolate
 1. Mitigate
+1. Implement
 1. Communicate
 1. RCA
-1. Implement LL
 
 ### Ticket Resolution
 

@@ -7,12 +7,15 @@ nav_order: 1
 ---
 ## GoobyCraft
 
-lore
+### Season 1
 
-season
+### Lore
 
-tweaks
+### Tweaks
 
-rules
+### Server Rules
 
-how to join
+### How to Join
+
+**Hostname:** `offline.lan`
+**Port:** `25565`
