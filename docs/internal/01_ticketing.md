@@ -43,11 +43,11 @@ Platform bugs, issues, and feature requests should go through GitHub Issues.
 
 ### Determine Ticket Urgency
 
-Low - 
+Low -
 
-Medium - 
+Medium -
 
-High - 
+High -
 
 Critical -
 
